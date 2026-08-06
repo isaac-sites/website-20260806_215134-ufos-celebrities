@@ -1,0 +1,2542 @@
+{
+  "generated_at_utc": "2026-08-06T20:36:37.780877Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 978,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 201,
+    "visible_pages_without_inline_outbound_links": 10,
+    "average_inline_inbound_links_per_visible_page": 4.64,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 211,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90",
+        "title": "Motion Parallax",
+        "permalink": "/motion-parallax/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_delonge_hearing_over_f3fa4d",
+        "title": "Hearing Claims",
+        "permalink": "/hearing-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_kim_wilde_cultural_t_0e14de",
+        "title": "Wilde Trace",
+        "permalink": "/wilde-trace/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_radar_confirmation_l_26e9ea",
+        "title": "Radar Claims",
+        "permalink": "/radar-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_galileo_infrared_tra_e57698",
+        "title": "Infrared Dataset",
+        "permalink": "/infrared-dataset/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_missed_de_ef63d6",
+        "title": "Missed Detections",
+        "permalink": "/missed-detections/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_spectroscopy_lig_8419db",
+        "title": "UFO Spectra",
+        "permalink": "/ufo-spectra/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_roswell_project_mogu_71d97c",
+        "title": "Roswell Debris",
+        "permalink": "/roswell-debris/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6",
+        "title": "Autokinesis",
+        "permalink": "/autokinesis/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_flight_record_li_358d80",
+        "title": "Flight Records",
+        "permalink": "/flight-records-c9b369/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "ufos_and_celebrities_846269",
+        "title": "When Famous UFO Stories Meet the Evidence",
+        "permalink": "/ufos-and-celebrities/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "title": "Authenticity",
+        "permalink": "/authenticity/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_aguadilla_transmediu_a3dba2",
+        "title": "Aguadilla",
+        "permalink": "/aguadilla/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_exotic_ufo_evidence_59741f",
+        "title": "Evidence Threshold",
+        "permalink": "/evidence-threshold/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_gofast_motion_parall_80b7dc",
+        "title": "Go Fast",
+        "permalink": "/go-fast/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_distance_speed_u_9ce7bd",
+        "title": "Missing Distance",
+        "permalink": "/missing-distance/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f",
+        "title": "Sensor Artefacts",
+        "permalink": "/sensor-artefacts/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_video_authentica_d43770",
+        "title": "Authentication",
+        "permalink": "/authentication/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "title": "Official Actions",
+        "permalink": "/official-actions/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "title": "AARO",
+        "permalink": "/aaro/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_congress_uap_oversig_d6a635",
+        "title": "Congressional Oversight",
+        "permalink": "/congressional-oversight/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_delonge_uap_policy_a_f8ed14",
+        "title": "De Longe Effect",
+        "permalink": "/de-longe-effect/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_navy_uap_reporting_r_d4ccaa",
+        "title": "Pilot Reporting",
+        "permalink": "/pilot-reporting/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_pentagon_videos_publ_2d473c",
+        "title": "Pentagon Videos",
+        "permalink": "/pentagon-videos-f016f2/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_uap_action_not_alien_efd6bb",
+        "title": "Evidence Limits",
+        "permalink": "/evidence-limits/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "title": "Pilot Witnesses",
+        "permalink": "/pilot-witnesses/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90",
+        "title": "Motion Parallax",
+        "permalink": "/motion-parallax/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_celebrity_pilot_veri_6b7016",
+        "title": "Verification Records",
+        "permalink": "/verification-records/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_night_cockpit_illusi_2aa833",
+        "title": "Night Illusions",
+        "permalink": "/night-illusions/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_pilot_confidence_acc_519bdb",
+        "title": "Confidence Gap",
+        "permalink": "/confidence-gap/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123",
+        "title": "Range Ambiguity",
+        "permalink": "/range-ambiguity/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_separate_lights_gian_60d6ba",
+        "title": "One Giant Craft",
+        "permalink": "/one-giant-craft/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "title": "Fame vs Evidence",
+        "permalink": "/fame-vs-evidence/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_credibilit_a2305e",
+        "title": "Credibility Limits",
+        "permalink": "/credibility-limits/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_ufo_memory_49a3a3",
+        "title": "Memory Drift",
+        "permalink": "/memory-drift/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_early_ufo_records_va_ae6e1a",
+        "title": "Early Records",
+        "permalink": "/early-records-a53d81/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_military_ufo_video_l_33c44a",
+        "title": "Video Lessons",
+        "permalink": "/video-lessons/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_multiple_witness_lim_949620",
+        "title": "Witness Limits",
+        "permalink": "/witness-limits/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_pilot_night_light_il_dbbb37",
+        "title": "Pilot Illusions",
+        "permalink": "/pilot-illusions/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "title": "Documentaries",
+        "permalink": "/documentaries/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_delonge_insider_auth_e3a3a0",
+        "title": "Insider Format",
+        "permalink": "/insider-format/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_lovato_quest_vs_evid_bc3461",
+        "title": "*Unidentified With Demi Lovato* (2021)",
+        "permalink": "/unidentified-with-demi-lovato-2021/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_editing_revelati_5570bc",
+        "title": "Mystery Editing",
+        "permalink": "/mystery-editing/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hotspot_feedback_aa9846",
+        "title": "Hotspot Effect",
+        "permalink": "/hotspot-effect/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hypnosis_false_c_f9890a",
+        "title": "Hypnosis Claims",
+        "permalink": "/hypnosis-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_witnesses_vs_sensor_7f18c3",
+        "title": "Witness Limits",
+        "permalink": "/witness-limits-6c1ee5/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "title": "Media Amplification",
+        "permalink": "/media-amplification/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_repeti_232119",
+        "title": "Repetition Effect",
+        "permalink": "/repetition-effect/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_social_1f8089",
+        "title": "Social Surge",
+        "permalink": "/social-surge/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_delonge_ufo_media_pi_af7f7f",
+        "title": "De Longe Network",
+        "permalink": "/de-longe-network/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_pentagon_video_claim_3d3b6d",
+        "title": "Video Limits",
+        "permalink": "/video-limits/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_documentary_cert_d1882d",
+        "title": "Documentary Effect",
+        "permalink": "/documentary-effect/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_hearing_celebrit_1684dc",
+        "title": "Hearing Fallout",
+        "permalink": "/hearing-fallout/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "title": "Eyewitness Memory",
+        "permalink": "/eyewitness-memory/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_goldie_hawn_recovere_b09c83",
+        "title": "Hawn Memory",
+        "permalink": "/hawn-memory-1bcc58/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_late_ufo_memory_prec_c108fe",
+        "title": "Late Precision",
+        "permalink": "/late-precision/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_repeated_ufo_retelli_e31a22",
+        "title": "Retelling Effects",
+        "permalink": "/retelling-effects/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_confidence_accur_ea7ea8",
+        "title": "Confidence Gap",
+        "permalink": "/confidence-gap-2ede72/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_interview_questi_c45ad9",
+        "title": "Leading Questions",
+        "permalink": "/leading-questions/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_source_memory_co_63d01b",
+        "title": "Source Confusion",
+        "permalink": "/source-confusion/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "title": "Reporting Stigma",
+        "permalink": "/reporting-stigma/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_alien_certainty_stig_2746ab",
+        "title": "Certainty Risk",
+        "permalink": "/certainty-risk/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_interview_93ac8e",
+        "title": "Media Gateway",
+        "permalink": "/media-gateway/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_social_per_2d2771",
+        "title": "Social Permission",
+        "permalink": "/social-permission/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_fame_vs_ufo_evidence_134b61",
+        "title": "Fame vs Evidence",
+        "permalink": "/fame-vs-evidence-cfcf4d/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_reporting_reform_nor_ecffe4",
+        "title": "Reporting Reform",
+        "permalink": "/reporting-reform-df8326/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_responsible_celebrit_ccc517",
+        "title": "Better Reports",
+        "permalink": "/better-reports/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "title": "Research Risks",
+        "permalink": "/research-risks/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_aaro_closed_case_bia_922da3",
+        "title": "Closed Cases",
+        "permalink": "/closed-cases/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_authentic_video_alie_f19c59",
+        "title": "Video Claims",
+        "permalink": "/video-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_circular_ufo_reporti_e4f5f1",
+        "title": "Circular Claims",
+        "permalink": "/circular-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_delonge_hearing_over_f3fa4d",
+        "title": "Hearing Claims",
+        "permalink": "/hearing-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_lovato_ce5_evidence_34f6a1",
+        "title": "CE 5 Claims",
+        "permalink": "/ce-5-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_to_the_stars_conflic_493ebb",
+        "title": "To The Stars",
+        "permalink": "/to-the-stars-5c4bef/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "title": "Early vs Late",
+        "permalink": "/early-vs-late/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_early_ufo_records_459d67",
+        "title": "Early Records",
+        "permalink": "/early-records/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_goldie_hawn_memory_6d20f2",
+        "title": "Hawn Memory",
+        "permalink": "/hawn-memory/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_kim_wilde_cultural_t_0e14de",
+        "title": "Wilde Trace",
+        "permalink": "/wilde-trace/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_late_ufo_memory_drif_cd266b",
+        "title": "Memory Drift",
+        "permalink": "/memory-drift-7acc97/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_missing_ufo_records_34e877",
+        "title": "Missing Records",
+        "permalink": "/missing-records/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_russell_call_gap_80c7b4",
+        "title": "Russell Call",
+        "permalink": "/russell-call/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "title": "Dan Aykroyd",
+        "permalink": "/dan-aykroyd/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_aykroyd_family_ufo_b_5c65a7",
+        "title": "Family Influence",
+        "permalink": "/family-influence/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_montreal_ufo_evidenc_f23ffb",
+        "title": "Montreal Sighting",
+        "permalink": "/montreal-sighting/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_mufon_celebrity_norm_c9e18d",
+        "title": "MUFON Role",
+        "permalink": "/mufon-role/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_power_line_ufo_specu_a7a4b2",
+        "title": "Power Line UFO",
+        "permalink": "/power-line-ufo/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_unplugged_cumulative_090dfa",
+        "title": "Documentary Claims",
+        "permalink": "/documentary-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_vineyard_lights_spee_805dfb",
+        "title": "Vineyard Lights",
+        "permalink": "/vineyard-lights/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "title": "Demi Lovato",
+        "permalink": "/demi-lovato/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91",
+        "title": "Catalina",
+        "permalink": "/catalina/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_celebrity_storytelli_e67558",
+        "title": "Celebrity Lens",
+        "permalink": "/celebrity-lens/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_joshua_tree_blue_orb_f98be9",
+        "title": "Blue Orb",
+        "permalink": "/blue-orb/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_lovato_hypnosis_abdu_d97cd4",
+        "title": "Hypnosis",
+        "permalink": "/hypnosis/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_sedona_contact_medit_d83750",
+        "title": "Sedona Contact",
+        "permalink": "/sedona-contact/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_vulture_city_carmen_807fc4",
+        "title": "Carmen Scene",
+        "permalink": "/carmen-scene/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "title": "Claim Checklist",
+        "permalink": "/claim-checklist/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_early_account_change_af0235",
+        "title": "Early Accounts",
+        "permalink": "/early-accounts/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_independent_ufo_witn_60026e",
+        "title": "Witness Independence",
+        "permalink": "/witness-independence/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_radar_confirmation_l_26e9ea",
+        "title": "Radar Claims",
+        "permalink": "/radar-claims/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_records_test_ufo_cla_5fd1af",
+        "title": "Record Checks",
+        "permalink": "/record-checks/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_media_provenance_5123ae",
+        "title": "Media Provenance",
+        "permalink": "/media-provenance/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_size_speed_limit_29f6cb",
+        "title": "Size and Speed",
+        "permalink": "/size-and-speed-30dfea/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "title": "John Lennon",
+        "permalink": "/john-lennon/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_1974_ufo_inte_d29a13",
+        "title": "1974 Interview",
+        "permalink": "/1974-interview/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_music_leg_2b6f1e",
+        "title": "Music Legacy",
+        "permalink": "/music-legacy-7ae8c1/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_possible_88242a",
+        "title": "Possible Explanations",
+        "permalink": "/possible-explanations/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_may_pang_witness_acc_be67fa",
+        "title": "May Pang",
+        "permalink": "/may-pang-3730c6/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_missing_photos_witne_c354f8",
+        "title": "Missing Records",
+        "permalink": "/missing-records-eccce1/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237",
+        "title": "Album Note",
+        "permalink": "/album-note/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "title": "Kurt Russell",
+        "permalink": "/kurt-russell/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_oliver_hudson_second_35b0c0",
+        "title": "Hudson Witness",
+        "permalink": "/hudson-witness/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_aircraft_for_61fb68",
+        "title": "Aircraft Theory",
+        "permalink": "/aircraft-theory/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_atc_radar_li_092d42",
+        "title": "ATC Call",
+        "permalink": "/atc-call/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_delayed_memo_0b83a4",
+        "title": "Memory Gap",
+        "permalink": "/memory-gap/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_pilot_perspe_df0636",
+        "title": "Pilot View",
+        "permalink": "/pilot-view/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_which_phoeni_bb84fa",
+        "title": "Which Lights",
+        "permalink": "/which-lights/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "title": "May Pang",
+        "permalink": "/may-pang/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_cowitness_memory_pan_d8c44c",
+        "title": "Shared Memory",
+        "permalink": "/shared-memory/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_lennon_cue_attention_eb991b",
+        "title": "Lennon s Cue",
+        "permalink": "/lennon-s-cue/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_matching_ufo_details_39a64b",
+        "title": "Matching Details",
+        "permalink": "/matching-details/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_pang_testimony_rules_b9b402",
+        "title": "What It Rules",
+        "permalink": "/what-it-rules/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_shared_terrace_indep_0991db",
+        "title": "Shared View",
+        "permalink": "/shared-view/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_two_witnesses_no_tri_dfe28e",
+        "title": "No Triangulation",
+        "permalink": "/no-triangulation/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "title": "Multi Sensor Study",
+        "permalink": "/multi-sensor-study/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_aguadilla_ufo_recons_c88caf",
+        "title": "Aguadilla Case",
+        "permalink": "/aguadilla-case/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_galileo_infrared_tra_e57698",
+        "title": "Infrared Dataset",
+        "permalink": "/infrared-dataset/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_distance_measure_38f854",
+        "title": "Distance Problem",
+        "permalink": "/distance-problem/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_corrobora_e530f8",
+        "title": "Sensor Agreement",
+        "permalink": "/sensor-agreement/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_missed_de_ef63d6",
+        "title": "Missed Detections",
+        "permalink": "/missed-detections/"
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_spectroscopy_lig_8419db",
+        "title": "UFO Spectra",
+        "permalink": "/ufo-spectra/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "title": "Documentaries",
+        "permalink": "/documentaries/",
+        "inline_inbound_count": 70
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "title": "AARO",
+        "permalink": "/aaro/",
+        "inline_inbound_count": 56
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "title": "Phoenix Lights",
+        "permalink": "/phoenix-lights/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "title": "Storytelling",
+        "permalink": "/storytelling/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "title": "John Lennon",
+        "permalink": "/john-lennon/",
+        "inline_inbound_count": 32
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "title": "To the Stars",
+        "permalink": "/to-the-stars/",
+        "inline_inbound_count": 30
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "title": "Authenticity",
+        "permalink": "/authenticity/",
+        "inline_inbound_count": 28
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+        "title": "Triangulation",
+        "permalink": "/triangulation/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "title": "Kurt Russell",
+        "permalink": "/kurt-russell/",
+        "inline_inbound_count": 26
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f",
+        "title": "Sensor Artefacts",
+        "permalink": "/sensor-artefacts/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "title": "Multiple Witnesses",
+        "permalink": "/multiple-witnesses/",
+        "inline_inbound_count": 23
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "title": "Fame vs Evidence",
+        "permalink": "/fame-vs-evidence/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_navy_videos_actual_p_5ebd7d",
+        "title": "Navy Videos",
+        "permalink": "/navy-videos/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "title": "Demi Lovato",
+        "permalink": "/demi-lovato/",
+        "inline_inbound_count": 19
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_reconstruction_d_877967",
+        "title": "Reconstructions",
+        "permalink": "/reconstructions/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_independent_ufo_witn_60026e",
+        "title": "Witness Accounts",
+        "permalink": "/witness-accounts/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "title": "Eyewitness Memory",
+        "permalink": "/eyewitness-memory/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "title": "Official Actions",
+        "permalink": "/official-actions/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "title": "Reporting Stigma",
+        "permalink": "/reporting-stigma/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_possible_88242a",
+        "title": "Possible Explanations",
+        "permalink": "/possible-explanations/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "title": "Dan Aykroyd",
+        "permalink": "/dan-aykroyd/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_puerto_rico_motion_p_faa025",
+        "title": "Puerto Rico",
+        "permalink": "/puerto-rico/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "title": "Tom De Longe",
+        "permalink": "/tom-de-longe/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_unresolved_not_alien_1717d0",
+        "title": "Unresolved Cases",
+        "permalink": "/unresolved-cases/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_explanation_li_980038",
+        "title": "Evidence Limits",
+        "permalink": "/evidence-limits-071e7a/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6",
+        "title": "Autokinesis",
+        "permalink": "/autokinesis/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_independent_witness_f01c0b",
+        "title": "Independent Accounts",
+        "permalink": "/independent-accounts/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237",
+        "title": "Album Note",
+        "permalink": "/album-note/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_lovato_hypnosis_abdu_d97cd4",
+        "title": "Hypnosis",
+        "permalink": "/hypnosis/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_original_file_me_d886ae",
+        "title": "Original Files",
+        "permalink": "/original-files/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_weather_wind_che_5a004f",
+        "title": "Weather Records",
+        "permalink": "/weather-records/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_aguadilla_transmediu_a3dba2",
+        "title": "Aguadilla",
+        "permalink": "/aguadilla/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_military_ufo_video_l_33c44a",
+        "title": "Video Lessons",
+        "permalink": "/video-lessons/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_interview_93ac8e",
+        "title": "Media Gateway",
+        "permalink": "/media-gateway/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "ufos_and_celebrities_846269",
+        "title": "When Famous UFO Stories Meet the Evidence",
+        "permalink": "/ufos-and-celebrities/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_exact_time_place_1e58ab",
+        "title": "Time and Place",
+        "permalink": "/time-and-place/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_congress_uap_oversig_d6a635",
+        "title": "Congressional Oversight",
+        "permalink": "/congressional-oversight/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91",
+        "title": "Catalina",
+        "permalink": "/catalina/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_sensor_metadata_554bbe",
+        "title": "Missing Metadata",
+        "permalink": "/missing-metadata/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_delonge_disclosure_p_ebe92d",
+        "title": "De Longe",
+        "permalink": "/de-longe/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_index",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269",
+        "type": "parent"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_celebrity_pilot_veri_6b7016",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_index",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_night_cockpit_illusi_2aa833",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_pilot_confidence_acc_519bdb",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_separate_lights_gian_60d6ba",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269",
+        "type": "parent"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_credibilit_a2305e",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_ufo_memory_49a3a3",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_early_ufo_records_va_ae6e1a",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_index",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_military_ufo_video_l_33c44a",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_multiple_witness_lim_949620",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_pilot_night_light_il_dbbb37",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269",
+        "type": "parent"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_repeti_232119",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_social_1f8089",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_delonge_ufo_media_pi_af7f7f",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_index",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_pentagon_video_claim_3d3b6d",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_documentary_cert_d1882d",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_hearing_celebrit_1684dc",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269",
+        "type": "parent"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_index",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_isaac_brock_phoenix_f5825a",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_lennon_album_sleeve_95d85e",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nina_hagen_ufo_song_4bb829",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nobody_told_me_ufo_l_014dbe",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_songs_vs_interviews_4e4bba",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_tom_delonge_ufo_worl_397820",
+        "type": "child"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269",
+        "type": "parent"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "type": "sibling"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_lennon_album_sleeve_95d85e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_puerto_rico_motion_p_faa025",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_delonge_celebrity_ac_0b4ff1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_delonge_disclosure_p_ebe92d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_isaac_brock_phoenix_f5825a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_mass_sighting_event_a2e18a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915_aguadilla_transmediu_a3dba2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_navy_videos_actual_p_5ebd7d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_puerto_rico_motion_p_faa025",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_unresolved_not_alien_1717d0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_congress_uap_oversig_d6a635",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_interview_93ac8e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_open_reproducible_ua_0b8258",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_celebrity_ufo_author_fc7ced",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_lovato_hypnosis_abdu_d97cd4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_reconstruction_d_877967",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_delonge_celebrity_ac_0b4ff1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_celebrity_ufo_author_fc7ced",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_delonge_disclosure_p_ebe92d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+        "to": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_independent_ufo_witn_60026e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+        "to": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_exact_time_place_1e58ab",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_joshua_tree_blue_orb_f98be9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915_exotic_ufo_evidence_59741f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "to": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_lovato_hypnosis_abdu_d97cd4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_giant_craft_percepti_3077cd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+        "to": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_possible_88242a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "to": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_delayed_memo_0b83a4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+        "to": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "to": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+        "to": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "to": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915_aguadilla_transmediu_a3dba2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "to": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_missed_de_ef63d6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "to": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_puerto_rico_motion_p_faa025",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "to": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+        "to": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

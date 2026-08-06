@@ -1,0 +1,1868 @@
+{
+  "version": 1,
+  "page_count": 79,
+  "total_page_seconds": 320.2773,
+  "average_page_seconds": 4.0541,
+  "phase_totals_seconds": {
+    "internal_links": 174.6238,
+    "content_assembly": 65.6557,
+    "monetization": 30.9856,
+    "media_svg": 29.984,
+    "youtube": 8.2473,
+    "quality_write": 5.2019,
+    "content_cleanup_final": 2.817,
+    "preparation": 2.6995,
+    "content_cleanup_initial": 0.0629
+  },
+  "slowest_pages": [
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_instrument_corro_87b8d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 10.2753,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1489,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.4409,
+        "youtube": 0.0126,
+        "content_assembly": 0.7232,
+        "monetization": 6.845,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.5154,
+      "phases": {
+        "preparation": 0.0363,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5653,
+        "content_cleanup_final": 0.0619,
+        "media_svg": 0.3446,
+        "youtube": 2.3304,
+        "content_assembly": 1.1092,
+        "monetization": 1.9691,
+        "quality_write": 0.0977
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8467,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5693,
+        "content_cleanup_final": 0.0537,
+        "media_svg": 0.3802,
+        "youtube": 2.2699,
+        "content_assembly": 0.9656,
+        "monetization": 1.4897,
+        "quality_write": 0.0863
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5448,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.1125,
+        "content_cleanup_final": 0.0541,
+        "media_svg": 0.3162,
+        "youtube": 2.3918,
+        "content_assembly": 0.9456,
+        "monetization": 1.6328,
+        "quality_write": 0.0646
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_explanation_li_980038",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1947,
+      "phases": {
+        "preparation": 0.026,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.937,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.4004,
+        "youtube": 0.019,
+        "content_assembly": 0.6721,
+        "monetization": 2.0771,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1327,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.9537,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.4372,
+        "youtube": 0.0208,
+        "content_assembly": 0.74,
+        "monetization": 1.8795,
+        "quality_write": 0.0556
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_memory_contamina_1ad988",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0076,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.1843,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.4175,
+        "youtube": 0.0151,
+        "content_assembly": 0.6803,
+        "monetization": 1.5967,
+        "quality_write": 0.0601
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9225,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5729,
+        "content_cleanup_final": 0.085,
+        "media_svg": 0.2025,
+        "youtube": 0.0139,
+        "content_assembly": 1.0295,
+        "monetization": 0.8797,
+        "quality_write": 0.0917
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7259,
+      "phases": {
+        "preparation": 0.0464,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3325,
+        "content_cleanup_final": 0.051,
+        "media_svg": 0.3349,
+        "youtube": 0.0131,
+        "content_assembly": 0.9683,
+        "monetization": 0.8875,
+        "quality_write": 0.0914
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5699,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.6361,
+        "content_cleanup_final": 0.0751,
+        "media_svg": 0.4557,
+        "youtube": 0.0127,
+        "content_assembly": 1.1104,
+        "monetization": 0.1442,
+        "quality_write": 0.0886
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5301,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.8034,
+        "content_cleanup_final": 0.0954,
+        "media_svg": 0.2014,
+        "youtube": 0.0183,
+        "content_assembly": 1.1115,
+        "monetization": 0.1478,
+        "quality_write": 0.1063
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.304,
+      "phases": {
+        "preparation": 0.0396,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.1579,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.1572,
+        "youtube": 0.0136,
+        "content_assembly": 0.9304,
+        "monetization": 0.8972,
+        "quality_write": 0.072
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_celebrity_pilot_veri_6b7016",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3007,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.3517,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.4475,
+        "youtube": 0.012,
+        "content_assembly": 0.7194,
+        "monetization": 0.6537,
+        "quality_write": 0.0588
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2696,
+      "phases": {
+        "preparation": 0.1162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.1636,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4269,
+        "youtube": 0.0108,
+        "content_assembly": 0.6796,
+        "monetization": 0.7996,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2182,
+      "phases": {
+        "preparation": 0.0386,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.271,
+        "content_cleanup_final": 0.0605,
+        "media_svg": 0.5388,
+        "youtube": 0.0197,
+        "content_assembly": 1.0773,
+        "monetization": 0.134,
+        "quality_write": 0.0764
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1816,
+      "phases": {
+        "preparation": 0.0369,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5016,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 0.2947,
+        "youtube": 0.015,
+        "content_assembly": 1.0279,
+        "monetization": 0.1635,
+        "quality_write": 0.0894
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1769,
+      "phases": {
+        "preparation": 0.0392,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.5885,
+        "content_cleanup_final": 0.0656,
+        "media_svg": 0.167,
+        "youtube": 0.0247,
+        "content_assembly": 1.0584,
+        "monetization": 0.1389,
+        "quality_write": 0.0923
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1595,
+      "phases": {
+        "preparation": 0.1213,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5549,
+        "content_cleanup_final": 0.073,
+        "media_svg": 0.1949,
+        "youtube": 0.0267,
+        "content_assembly": 0.9982,
+        "monetization": 0.1124,
+        "quality_write": 0.077
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1176,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.412,
+        "content_cleanup_final": 0.0676,
+        "media_svg": 0.4017,
+        "youtube": 0.035,
+        "content_assembly": 0.9362,
+        "monetization": 0.1433,
+        "quality_write": 0.0767
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1067,
+      "phases": {
+        "preparation": 0.0355,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4818,
+        "content_cleanup_final": 0.0558,
+        "media_svg": 0.2651,
+        "youtube": 0.0191,
+        "content_assembly": 0.9822,
+        "monetization": 0.1675,
+        "quality_write": 0.0988
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "ufos_and_celebrities_846269",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 7.5448,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.1125,
+        "content_cleanup_final": 0.0541,
+        "media_svg": 0.3162,
+        "youtube": 2.3918,
+        "content_assembly": 0.9456,
+        "monetization": 1.6328,
+        "quality_write": 0.0646
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 8.5154,
+      "phases": {
+        "preparation": 0.0363,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5653,
+        "content_cleanup_final": 0.0619,
+        "media_svg": 0.3446,
+        "youtube": 2.3304,
+        "content_assembly": 1.1092,
+        "monetization": 1.9691,
+        "quality_write": 0.0977
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1816,
+      "phases": {
+        "preparation": 0.0369,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.5016,
+        "content_cleanup_final": 0.0518,
+        "media_svg": 0.2947,
+        "youtube": 0.015,
+        "content_assembly": 1.0279,
+        "monetization": 0.1635,
+        "quality_write": 0.0894
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.8467,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.5693,
+        "content_cleanup_final": 0.0537,
+        "media_svg": 0.3802,
+        "youtube": 2.2699,
+        "content_assembly": 0.9656,
+        "monetization": 1.4897,
+        "quality_write": 0.0863
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9204,
+      "phases": {
+        "preparation": 0.0326,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3329,
+        "content_cleanup_final": 0.0453,
+        "media_svg": 0.2638,
+        "youtube": 0.0282,
+        "content_assembly": 0.9911,
+        "monetization": 0.123,
+        "quality_write": 0.1027
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2182,
+      "phases": {
+        "preparation": 0.0386,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.271,
+        "content_cleanup_final": 0.0605,
+        "media_svg": 0.5388,
+        "youtube": 0.0197,
+        "content_assembly": 1.0773,
+        "monetization": 0.134,
+        "quality_write": 0.0764
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1769,
+      "phases": {
+        "preparation": 0.0392,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 2.5885,
+        "content_cleanup_final": 0.0656,
+        "media_svg": 0.167,
+        "youtube": 0.0247,
+        "content_assembly": 1.0584,
+        "monetization": 0.1389,
+        "quality_write": 0.0923
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9446,
+      "phases": {
+        "preparation": 0.044,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.3947,
+        "content_cleanup_final": 0.0569,
+        "media_svg": 0.2036,
+        "youtube": 0.0125,
+        "content_assembly": 1.0183,
+        "monetization": 0.1316,
+        "quality_write": 0.0822
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.072,
+      "phases": {
+        "preparation": 0.0856,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.4451,
+        "content_cleanup_final": 0.0562,
+        "media_svg": 0.2,
+        "youtube": 0.0151,
+        "content_assembly": 1.0302,
+        "monetization": 0.1585,
+        "quality_write": 0.0797
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0473,
+      "phases": {
+        "preparation": 0.0881,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3506,
+        "content_cleanup_final": 0.0473,
+        "media_svg": 0.3363,
+        "youtube": 0.0127,
+        "content_assembly": 0.9722,
+        "monetization": 0.1501,
+        "quality_write": 0.0893
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.051,
+      "phases": {
+        "preparation": 0.0356,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4364,
+        "content_cleanup_final": 0.0579,
+        "media_svg": 0.2178,
+        "youtube": 0.0255,
+        "content_assembly": 0.9935,
+        "monetization": 0.1331,
+        "quality_write": 0.1504
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8964,
+      "phases": {
+        "preparation": 0.0382,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.2649,
+        "content_cleanup_final": 0.067,
+        "media_svg": 0.1883,
+        "youtube": 0.0149,
+        "content_assembly": 1.0285,
+        "monetization": 0.1919,
+        "quality_write": 0.1013
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1176,
+      "phases": {
+        "preparation": 0.0442,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.412,
+        "content_cleanup_final": 0.0676,
+        "media_svg": 0.4017,
+        "youtube": 0.035,
+        "content_assembly": 0.9362,
+        "monetization": 0.1433,
+        "quality_write": 0.0767
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9255,
+      "phases": {
+        "preparation": 0.0439,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3371,
+        "content_cleanup_final": 0.0538,
+        "media_svg": 0.2662,
+        "youtube": 0.0111,
+        "content_assembly": 1.0103,
+        "monetization": 0.1099,
+        "quality_write": 0.0926
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5301,
+      "phases": {
+        "preparation": 0.0446,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 2.8034,
+        "content_cleanup_final": 0.0954,
+        "media_svg": 0.2014,
+        "youtube": 0.0183,
+        "content_assembly": 1.1115,
+        "monetization": 0.1478,
+        "quality_write": 0.1063
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7409,
+      "phases": {
+        "preparation": 0.0335,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.2482,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.3264,
+        "youtube": 0.0141,
+        "content_assembly": 0.9009,
+        "monetization": 0.1138,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0243,
+      "phases": {
+        "preparation": 0.0363,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.3805,
+        "content_cleanup_final": 0.0704,
+        "media_svg": 0.1967,
+        "youtube": 0.0298,
+        "content_assembly": 1.0705,
+        "monetization": 0.1431,
+        "quality_write": 0.0954
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5699,
+      "phases": {
+        "preparation": 0.0453,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 2.6361,
+        "content_cleanup_final": 0.0751,
+        "media_svg": 0.4557,
+        "youtube": 0.0127,
+        "content_assembly": 1.1104,
+        "monetization": 0.1442,
+        "quality_write": 0.0886
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0144,
+      "phases": {
+        "preparation": 0.0423,
+        "content_cleanup_initial": 0.0016,
+        "internal_links": 2.4887,
+        "content_cleanup_final": 0.055,
+        "media_svg": 0.183,
+        "youtube": 0.0193,
+        "content_assembly": 1.0044,
+        "monetization": 0.1418,
+        "quality_write": 0.0783
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4405,
+      "phases": {
+        "preparation": 0.0418,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1318,
+        "content_cleanup_final": 0.029,
+        "media_svg": 0.1716,
+        "youtube": 0.0266,
+        "content_assembly": 0.8585,
+        "monetization": 0.1018,
+        "quality_write": 0.0789
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1067,
+      "phases": {
+        "preparation": 0.0355,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.4818,
+        "content_cleanup_final": 0.0558,
+        "media_svg": 0.2651,
+        "youtube": 0.0191,
+        "content_assembly": 0.9822,
+        "monetization": 0.1675,
+        "quality_write": 0.0988
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.304,
+      "phases": {
+        "preparation": 0.0396,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.1579,
+        "content_cleanup_final": 0.0356,
+        "media_svg": 0.1572,
+        "youtube": 0.0136,
+        "content_assembly": 0.9304,
+        "monetization": 0.8972,
+        "quality_write": 0.072
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9634,
+      "phases": {
+        "preparation": 0.0354,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.4636,
+        "content_cleanup_final": 0.0751,
+        "media_svg": 0.1705,
+        "youtube": 0.0138,
+        "content_assembly": 0.9712,
+        "monetization": 0.1432,
+        "quality_write": 0.0898
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6859,
+      "phases": {
+        "preparation": 0.0429,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.1369,
+        "content_cleanup_final": 0.0422,
+        "media_svg": 0.282,
+        "youtube": 0.0187,
+        "content_assembly": 0.9666,
+        "monetization": 0.1268,
+        "quality_write": 0.0691
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1595,
+      "phases": {
+        "preparation": 0.1213,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5549,
+        "content_cleanup_final": 0.073,
+        "media_svg": 0.1949,
+        "youtube": 0.0267,
+        "content_assembly": 0.9982,
+        "monetization": 0.1124,
+        "quality_write": 0.077
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7259,
+      "phases": {
+        "preparation": 0.0464,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.3325,
+        "content_cleanup_final": 0.051,
+        "media_svg": 0.3349,
+        "youtube": 0.0131,
+        "content_assembly": 0.9683,
+        "monetization": 0.8875,
+        "quality_write": 0.0914
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9683,
+      "phases": {
+        "preparation": 0.0393,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 2.4299,
+        "content_cleanup_final": 0.0412,
+        "media_svg": 0.2795,
+        "youtube": 0.0138,
+        "content_assembly": 0.9711,
+        "monetization": 0.1144,
+        "quality_write": 0.0775
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_early_ufo_records_459d67",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4516,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.0577,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.4416,
+        "youtube": 0.0126,
+        "content_assembly": 0.7024,
+        "monetization": 0.1376,
+        "quality_write": 0.0587
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9225,
+      "phases": {
+        "preparation": 0.0461,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.5729,
+        "content_cleanup_final": 0.085,
+        "media_svg": 0.2025,
+        "youtube": 0.0139,
+        "content_assembly": 1.0295,
+        "monetization": 0.8797,
+        "quality_write": 0.0917
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2696,
+      "phases": {
+        "preparation": 0.1162,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.1636,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4269,
+        "youtube": 0.0108,
+        "content_assembly": 0.6796,
+        "monetization": 0.7996,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1327,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.9537,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.4372,
+        "youtube": 0.0208,
+        "content_assembly": 0.74,
+        "monetization": 1.8795,
+        "quality_write": 0.0556
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_celebrity_pilot_veri_6b7016",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3007,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 2.3517,
+        "content_cleanup_final": 0.0298,
+        "media_svg": 0.4475,
+        "youtube": 0.012,
+        "content_assembly": 0.7194,
+        "monetization": 0.6537,
+        "quality_write": 0.0588
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_night_cockpit_illusi_2aa833",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6748,
+      "phases": {
+        "preparation": 0.0244,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.3042,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.4357,
+        "youtube": 0.0102,
+        "content_assembly": 0.7146,
+        "monetization": 0.1072,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_pilot_confidence_acc_519bdb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6239,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1948,
+        "content_cleanup_final": 0.0321,
+        "media_svg": 0.4598,
+        "youtube": 0.0232,
+        "content_assembly": 0.7504,
+        "monetization": 0.0918,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_ufo_memory_49a3a3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6193,
+      "phases": {
+        "preparation": 0.0311,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1625,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.4452,
+        "youtube": 0.0173,
+        "content_assembly": 0.7485,
+        "monetization": 0.1329,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_separate_lights_gian_60d6ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8804,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.1785,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.4407,
+        "youtube": 0.0105,
+        "content_assembly": 0.7366,
+        "monetization": 0.4028,
+        "quality_write": 0.0618
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_repeti_232119",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5959,
+      "phases": {
+        "preparation": 0.124,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0504,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.4357,
+        "youtube": 0.0155,
+        "content_assembly": 0.768,
+        "monetization": 0.1324,
+        "quality_write": 0.0511
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_social_1f8089",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5097,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.0605,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.4368,
+        "youtube": 0.0149,
+        "content_assembly": 0.7497,
+        "monetization": 0.1435,
+        "quality_write": 0.0582
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_hearing_celebrit_1684dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5078,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1003,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.4279,
+        "youtube": 0.0142,
+        "content_assembly": 0.7439,
+        "monetization": 0.1121,
+        "quality_write": 0.0539
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5261,
+      "phases": {
+        "preparation": 0.0224,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0637,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.4611,
+        "youtube": 0.0152,
+        "content_assembly": 0.7701,
+        "monetization": 0.1153,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_vulture_city_carmen_807fc4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5116,
+      "phases": {
+        "preparation": 0.0246,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.0947,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.4473,
+        "youtube": 0.0111,
+        "content_assembly": 0.7197,
+        "monetization": 0.1283,
+        "quality_write": 0.0552
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_possible_88242a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4377,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0498,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.4373,
+        "youtube": 0.0116,
+        "content_assembly": 0.7222,
+        "monetization": 0.1242,
+        "quality_write": 0.0511
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_independent_witness_f01c0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3978,
+      "phases": {
+        "preparation": 0.0215,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0172,
+        "content_cleanup_final": 0.0137,
+        "media_svg": 0.4351,
+        "youtube": 0.0162,
+        "content_assembly": 0.7239,
+        "monetization": 0.1197,
+        "quality_write": 0.0501
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_video_authentica_d43770",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5552,
+      "phases": {
+        "preparation": 0.0234,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.1027,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.467,
+        "youtube": 0.0235,
+        "content_assembly": 0.7506,
+        "monetization": 0.1074,
+        "quality_write": 0.0612
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_mass_sighting_event_a2e18a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9664,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.1127,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.4661,
+        "youtube": 0.0191,
+        "content_assembly": 0.7809,
+        "monetization": 0.495,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_pentagon_videos_publ_2d473c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4246,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0162,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.4297,
+        "youtube": 0.0193,
+        "content_assembly": 0.7414,
+        "monetization": 0.1208,
+        "quality_write": 0.0494
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_confidence_accur_ea7ea8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.452,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0632,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.4526,
+        "youtube": 0.0143,
+        "content_assembly": 0.6927,
+        "monetization": 0.1289,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_source_memory_co_63d01b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6495,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.1312,
+        "content_cleanup_final": 0.0311,
+        "media_svg": 0.4341,
+        "youtube": 0.0133,
+        "content_assembly": 0.7908,
+        "monetization": 0.1668,
+        "quality_write": 0.056
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_alien_certainty_stig_2746ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6509,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1194,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.4471,
+        "youtube": 0.0149,
+        "content_assembly": 0.8264,
+        "monetization": 0.1313,
+        "quality_write": 0.0511
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_authentic_video_alie_f19c59",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6193,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 2.2233,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.4372,
+        "youtube": 0.0191,
+        "content_assembly": 0.7094,
+        "monetization": 0.129,
+        "quality_write": 0.0531
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_circular_ufo_reporti_e4f5f1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6532,
+      "phases": {
+        "preparation": 0.0205,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.1764,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.4627,
+        "youtube": 0.0447,
+        "content_assembly": 0.7627,
+        "monetization": 0.106,
+        "quality_write": 0.054
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_montreal_ufo_evidenc_f23ffb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6249,
+      "phases": {
+        "preparation": 0.0259,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.0734,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.4725,
+        "youtube": 0.0118,
+        "content_assembly": 0.7651,
+        "monetization": 0.2023,
+        "quality_write": 0.0544
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_power_line_ufo_specu_a7a4b2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5071,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.9982,
+        "content_cleanup_final": 0.0174,
+        "media_svg": 0.4273,
+        "youtube": 0.0109,
+        "content_assembly": 0.8206,
+        "monetization": 0.1501,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_unplugged_cumulative_090dfa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6766,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.2057,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.4445,
+        "youtube": 0.0121,
+        "content_assembly": 0.7726,
+        "monetization": 0.1407,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_vineyard_lights_spee_805dfb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.467,
+      "phases": {
+        "preparation": 0.0238,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.0725,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.4243,
+        "youtube": 0.0132,
+        "content_assembly": 0.7342,
+        "monetization": 0.1243,
+        "quality_write": 0.0517
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_joshua_tree_blue_orb_f98be9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.451,
+      "phases": {
+        "preparation": 0.0315,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.0291,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.4262,
+        "youtube": 0.0092,
+        "content_assembly": 0.772,
+        "monetization": 0.1097,
+        "quality_write": 0.0541
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_sedona_contact_medit_d83750",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5504,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1026,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.4571,
+        "youtube": 0.0113,
+        "content_assembly": 0.763,
+        "monetization": 0.121,
+        "quality_write": 0.0461
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_early_account_change_af0235",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5438,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 2.1092,
+        "content_cleanup_final": 0.0282,
+        "media_svg": 0.4383,
+        "youtube": 0.0121,
+        "content_assembly": 0.7262,
+        "monetization": 0.1356,
+        "quality_write": 0.0705
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_radar_confirmation_l_26e9ea",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6262,
+      "phases": {
+        "preparation": 0.0233,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1272,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.4672,
+        "youtube": 0.015,
+        "content_assembly": 0.7662,
+        "monetization": 0.1546,
+        "quality_write": 0.0534
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_records_test_ufo_cla_5fd1af",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6428,
+      "phases": {
+        "preparation": 0.0203,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1666,
+        "content_cleanup_final": 0.0296,
+        "media_svg": 0.4679,
+        "youtube": 0.0112,
+        "content_assembly": 0.7548,
+        "monetization": 0.1356,
+        "quality_write": 0.0564
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_media_provenance_5123ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6628,
+      "phases": {
+        "preparation": 0.0297,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 2.2127,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.4531,
+        "youtube": 0.0119,
+        "content_assembly": 0.734,
+        "monetization": 0.1411,
+        "quality_write": 0.0534
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_missing_photos_witne_c354f8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6437,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 2.1551,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.4353,
+        "youtube": 0.0183,
+        "content_assembly": 0.777,
+        "monetization": 0.1404,
+        "quality_write": 0.0634
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_pang_testimony_rules_b9b402",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6087,
+      "phases": {
+        "preparation": 0.0284,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.1869,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.4338,
+        "youtube": 0.0096,
+        "content_assembly": 0.7295,
+        "monetization": 0.1492,
+        "quality_write": 0.0522
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_shared_terrace_indep_0991db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4537,
+      "phases": {
+        "preparation": 0.0207,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0235,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.436,
+        "youtube": 0.0157,
+        "content_assembly": 0.7497,
+        "monetization": 0.1289,
+        "quality_write": 0.0601
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_two_witnesses_no_tri_dfe28e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4325,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.051,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.4372,
+        "youtube": 0.0173,
+        "content_assembly": 0.7206,
+        "monetization": 0.1121,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_giant_craft_light_il_00b283",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6046,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.162,
+        "content_cleanup_final": 0.0302,
+        "media_svg": 0.4505,
+        "youtube": 0.0179,
+        "content_assembly": 0.7752,
+        "monetization": 0.0864,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3346,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.0895,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.4036,
+        "youtube": 0.0127,
+        "content_assembly": 0.6429,
+        "monetization": 0.097,
+        "quality_write": 0.0441
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_memory_contamina_1ad988",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0076,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 2.1843,
+        "content_cleanup_final": 0.0287,
+        "media_svg": 0.4175,
+        "youtube": 0.0151,
+        "content_assembly": 0.6803,
+        "monetization": 1.5967,
+        "quality_write": 0.0601
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_unidentified_to_alie_1525a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2588,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.898,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.44,
+        "youtube": 0.0194,
+        "content_assembly": 0.6989,
+        "monetization": 0.1103,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_instrument_corro_87b8d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 10.2753,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.1489,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.4409,
+        "youtube": 0.0126,
+        "content_assembly": 0.7232,
+        "monetization": 6.845,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_explanation_li_980038",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1947,
+      "phases": {
+        "preparation": 0.026,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.937,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.4004,
+        "youtube": 0.019,
+        "content_assembly": 0.6721,
+        "monetization": 2.0771,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_phoenix_flare_videos_c981ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4153,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.0125,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.4079,
+        "youtube": 0.0121,
+        "content_assembly": 0.7534,
+        "monetization": 0.1394,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_navy_videos_actual_p_5ebd7d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4542,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.06,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.4356,
+        "youtube": 0.0139,
+        "content_assembly": 0.7202,
+        "monetization": 0.1263,
+        "quality_write": 0.0545
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_reconstruction_d_877967",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3786,
+      "phases": {
+        "preparation": 0.0253,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.016,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.4235,
+        "youtube": 0.019,
+        "content_assembly": 0.6883,
+        "monetization": 0.1329,
+        "quality_write": 0.0526
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_suspense_editing_09012c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4526,
+      "phases": {
+        "preparation": 0.0275,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 2.0573,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.4638,
+        "youtube": 0.0147,
+        "content_assembly": 0.7211,
+        "monetization": 0.0829,
+        "quality_write": 0.0635
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_camera_artefacts_ufo_7af595",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5806,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.1801,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.4287,
+        "youtube": 0.0186,
+        "content_assembly": 0.736,
+        "monetization": 0.1099,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_unresolved_not_alien_1717d0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5163,
+      "phases": {
+        "preparation": 0.0306,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 2.1397,
+        "content_cleanup_final": 0.0221,
+        "media_svg": 0.4523,
+        "youtube": 0.0119,
+        "content_assembly": 0.704,
+        "monetization": 0.108,
+        "quality_write": 0.0469
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4687,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 2.0356,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.4493,
+        "youtube": 0.0194,
+        "content_assembly": 0.7348,
+        "monetization": 0.1407,
+        "quality_write": 0.0479
+      }
+    },
+    {
+      "base_name": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_night_ufo_depth_illu_bd9354",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4188,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 2.0398,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.3964,
+        "youtube": 0.0171,
+        "content_assembly": 0.7379,
+        "monetization": 0.131,
+        "quality_write": 0.0489
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 79,
+    "reused_pages": 132,
+    "rebuilt_pages": 79,
+    "error_pages": 0,
+    "page_work_wall_seconds": 137.1862,
+    "rebuilt_pages_per_minute": 34.5516,
+    "queued_rebuild_pages_per_minute": 34.5516,
+    "apparent_page_work_speedup": 2.3346,
+    "youtube_cache_prepare": {
+      "entries": 40637,
+      "updated": true,
+      "elapsed_seconds": 3.9484
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 79,
+      "successful_pages": 79,
+      "failed_pages": 0,
+      "worker_summary": {
+        "9672": {
+          "pages": 27,
+          "successes": 27,
+          "failures": 0,
+          "total_worker_seconds": 110.0576,
+          "max_worker_seconds": 7.5998,
+          "last_base_name": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_unresolved_not_alien_1717d0"
+        },
+        "4176": {
+          "pages": 27,
+          "successes": 27,
+          "failures": 0,
+          "total_worker_seconds": 107.8528,
+          "max_worker_seconds": 8.5727,
+          "last_base_name": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969"
+        },
+        "28908": {
+          "pages": 25,
+          "successes": 25,
+          "failures": 0,
+          "total_worker_seconds": 106.6043,
+          "max_worker_seconds": 10.325,
+          "last_base_name": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_night_ufo_depth_illu_bd9354"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_instrument_corro_87b8d3",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28908,
+          "worker_duration_seconds": 10.325,
+          "total_seconds": 10.2753,
+          "worker_started_at_utc": "2026-08-06T20:35:21.504883Z",
+          "worker_finished_at_utc": "2026-08-06T20:35:31.780269Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+          "level": 2,
+          "success": true,
+          "worker_pid": 4176,
+          "worker_duration_seconds": 8.5727,
+          "total_seconds": 8.5154,
+          "worker_started_at_utc": "2026-08-06T20:33:52.451269Z",
+          "worker_finished_at_utc": "2026-08-06T20:34:00.966729Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+          "level": 2,
+          "success": true,
+          "worker_pid": 28908,
+          "worker_duration_seconds": 7.9064,
+          "total_seconds": 7.8467,
+          "worker_started_at_utc": "2026-08-06T20:33:55.783363Z",
+          "worker_finished_at_utc": "2026-08-06T20:34:03.630169Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269",
+          "level": 1,
+          "success": true,
+          "worker_pid": 9672,
+          "worker_duration_seconds": 7.5998,
+          "total_seconds": 7.5448,
+          "worker_started_at_utc": "2026-08-06T20:33:49.359814Z",
+          "worker_finished_at_utc": "2026-08-06T20:33:56.904686Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_explanation_li_980038",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9672,
+          "worker_duration_seconds": 5.2436,
+          "total_seconds": 5.1947,
+          "worker_started_at_utc": "2026-08-06T20:35:27.212886Z",
+          "worker_finished_at_utc": "2026-08-06T20:35:32.407596Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28908,
+          "worker_duration_seconds": 5.1847,
+          "total_seconds": 5.1327,
+          "worker_started_at_utc": "2026-08-06T20:34:36.703347Z",
+          "worker_finished_at_utc": "2026-08-06T20:34:41.836077Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_memory_contamina_1ad988",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9672,
+          "worker_duration_seconds": 5.0578,
+          "total_seconds": 5.0076,
+          "worker_started_at_utc": "2026-08-06T20:35:22.153246Z",
+          "worker_finished_at_utc": "2026-08-06T20:35:27.160856Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+          "level": 2,
+          "success": true,
+          "worker_pid": 9672,
+          "worker_duration_seconds": 4.9807,
+          "total_seconds": 4.9225,
+          "worker_started_at_utc": "2026-08-06T20:34:33.102746Z",
+          "worker_finished_at_utc": "2026-08-06T20:34:38.025272Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+          "level": 2,
+          "success": true,
+          "worker_pid": 28908,
+          "worker_duration_seconds": 4.7762,
+          "total_seconds": 4.7259,
+          "worker_started_at_utc": "2026-08-06T20:34:28.414485Z",
+          "worker_finished_at_utc": "2026-08-06T20:34:33.140445Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+          "level": 2,
+          "success": true,
+          "worker_pid": 4176,
+          "worker_duration_seconds": 4.6302,
+          "total_seconds": 4.5699,
+          "worker_started_at_utc": "2026-08-06T20:34:17.974016Z",
+          "worker_finished_at_utc": "2026-08-06T20:34:22.543973Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

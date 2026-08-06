@@ -1,0 +1,2928 @@
+{
+  "generated_at": "2026-08-06T21:36:41",
+  "passed": true,
+  "baseline": {
+    "article_pages": 242,
+    "amazon_specific_pages": 209,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ufos_and_celebrities_846269": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_aguadilla_transmediu_a3dba2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_exotic_ufo_evidence_59741f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_gofast_motion_parall_80b7dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_distance_speed_u_9ce7bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_video_authentica_d43770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_congress_uap_oversig_d6a635": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_delonge_uap_policy_a_f8ed14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_navy_uap_reporting_r_d4ccaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_pentagon_videos_publ_2d473c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_uap_action_not_alien_efd6bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_celebrity_pilot_veri_6b7016": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_night_cockpit_illusi_2aa833": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_pilot_confidence_acc_519bdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_separate_lights_gian_60d6ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_credibilit_a2305e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_ufo_memory_49a3a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_early_ufo_records_va_ae6e1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_military_ufo_video_l_33c44a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_multiple_witness_lim_949620": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_pilot_night_light_il_dbbb37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_delonge_insider_auth_e3a3a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_lovato_quest_vs_evid_bc3461": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_editing_revelati_5570bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hotspot_feedback_aa9846": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hypnosis_false_c_f9890a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_witnesses_vs_sensor_7f18c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_repeti_232119": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_social_1f8089": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_delonge_ufo_media_pi_af7f7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_pentagon_video_claim_3d3b6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_documentary_cert_d1882d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_hearing_celebrit_1684dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_goldie_hawn_recovere_b09c83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_late_ufo_memory_prec_c108fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_repeated_ufo_retelli_e31a22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_confidence_accur_ea7ea8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_interview_questi_c45ad9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_source_memory_co_63d01b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_alien_certainty_stig_2746ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_interview_93ac8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_social_per_2d2771": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_fame_vs_ufo_evidence_134b61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_reporting_reform_nor_ecffe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_responsible_celebrit_ccc517": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_aaro_closed_case_bia_922da3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_authentic_video_alie_f19c59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_circular_ufo_reporti_e4f5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_delonge_hearing_over_f3fa4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_lovato_ce5_evidence_34f6a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_to_the_stars_conflic_493ebb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_early_ufo_records_459d67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_goldie_hawn_memory_6d20f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_kim_wilde_cultural_t_0e14de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_late_ufo_memory_drif_cd266b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_missing_ufo_records_34e877": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_russell_call_gap_80c7b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_aykroyd_family_ufo_b_5c65a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_montreal_ufo_evidenc_f23ffb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_mufon_celebrity_norm_c9e18d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_power_line_ufo_specu_a7a4b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_unplugged_cumulative_090dfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_vineyard_lights_spee_805dfb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_celebrity_storytelli_e67558": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_joshua_tree_blue_orb_f98be9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_lovato_hypnosis_abdu_d97cd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_sedona_contact_medit_d83750": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_vulture_city_carmen_807fc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_early_account_change_af0235": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_independent_ufo_witn_60026e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_radar_confirmation_l_26e9ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_records_test_ufo_cla_5fd1af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_media_provenance_5123ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_size_speed_limit_29f6cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_1974_ufo_inte_d29a13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_music_leg_2b6f1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_possible_88242a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_may_pang_witness_acc_be67fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_missing_photos_witne_c354f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_oliver_hudson_second_35b0c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_aircraft_for_61fb68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_atc_radar_li_092d42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_delayed_memo_0b83a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_pilot_perspe_df0636": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_which_phoeni_bb84fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_cowitness_memory_pan_d8c44c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_lennon_cue_attention_eb991b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_matching_ufo_details_39a64b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_pang_testimony_rules_b9b402": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_shared_terrace_indep_0991db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_two_witnesses_no_tri_dfe28e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_giant_craft_light_il_00b283": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_independent_witness_f01c0b": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_mass_sighting_event_a2e18a": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_instrument_corro_87b8d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_memory_contamina_1ad988": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_aguadilla_ufo_recons_c88caf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_galileo_infrared_tra_e57698": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_distance_measure_38f854": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_corrobora_e530f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_missed_de_ef63d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_spectroscopy_lig_8419db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_isaac_brock_phoenix_f5825a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_lennon_album_sleeve_95d85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nina_hagen_ufo_song_4bb829": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nobody_told_me_ufo_l_014dbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_songs_vs_interviews_4e4bba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_tom_delonge_ufo_worl_397820": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_ground_based_uap_obs_c2be90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_open_reproducible_ua_0b8258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_standardized_public_be15fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_multisensor_cros_49f636": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_sensor_metadata_554bbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_video_speed_with_d1ece6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_aircraft_false_accel_30811b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_al_taqaddum_balloon_b84528": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_carter_ufo_atmospher_735a0a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_puerto_rico_ufo_pers_999809": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_rocket_plume_ufo_spi_23412f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_roswell_project_mogu_71d97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_delonge_disclosure_p_ebe92d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_gofast_parallax_expl_cbcade": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_military_sensor_visu_169df3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_pentagon_authenticat_35ba38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_ufo_video_release_ti_1a1d35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_unidentified_to_alie_1525a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_a10_flare_disposal_3d556e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_brightness_distance_9377b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flares_false_hoverin_3e9404": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_explanation_li_980038": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_lines_and_arcs_145a4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_reenactment_vi_45c293": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_arizona_sightings_ro_67ea79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_giant_craft_percepti_3077cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_military_flight_reco_4b7162": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_phoenix_flare_videos_c981ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_stanley_telescope_cl_f3638b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_symington_delayed_di_5a78ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_delonge_celebrity_ac_0b4ff1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_mellon_security_refr_cb25a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_navy_videos_media_ca_071253": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_pentagon_video_authe_5045b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_podesta_emails_delon_b6dcb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_ttsa_entertainment_s_cf6433": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_navy_videos_actual_p_5ebd7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_army_agreement_090212": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_borrowed_credib_1e114f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_business_model_7387c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_mainstream_medi_b3e79a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_navy_reporting_90c0d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_alien_autopsy_editin_6f335f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_celebrity_ufo_author_fc7ced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_music_credibilit_080b5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_mystery_business_439a67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_reconstruction_d_877967": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_suspense_editing_09012c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_camera_artefacts_ufo_7af595": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_missing_distance_fal_eea6b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_official_ufo_case_da_596dbf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_pilot_ufo_misidentif_329f24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_puerto_rico_motion_p_faa025": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_unresolved_not_alien_1717d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_aircraft_motion_para_2399b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_night_ufo_depth_illu_bd9354": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_single_viewpoint_ufo_7e8387": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_ufo_size_range_error_d54790": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_independent_ufo_witn_60026e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_angular_measurem_7d0905": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_exact_time_place_1e58ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_flight_record_li_358d80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_original_file_me_d886ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_weather_wind_che_5a004f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ufos_and_celebrities_846269": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_aguadilla_transmediu_a3dba2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_exotic_ufo_evidence_59741f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_gofast_motion_parall_80b7dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_distance_speed_u_9ce7bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_video_authentica_d43770": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_congress_uap_oversig_d6a635": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_delonge_uap_policy_a_f8ed14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_navy_uap_reporting_r_d4ccaa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_pentagon_videos_publ_2d473c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_uap_action_not_alien_efd6bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_celebrity_pilot_veri_6b7016": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_night_cockpit_illusi_2aa833": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_pilot_confidence_acc_519bdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_separate_lights_gian_60d6ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_credibilit_a2305e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_ufo_memory_49a3a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_early_ufo_records_va_ae6e1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_military_ufo_video_l_33c44a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_multiple_witness_lim_949620": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_pilot_night_light_il_dbbb37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_delonge_insider_auth_e3a3a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_lovato_quest_vs_evid_bc3461": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_editing_revelati_5570bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hotspot_feedback_aa9846": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hypnosis_false_c_f9890a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_witnesses_vs_sensor_7f18c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_repeti_232119": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_social_1f8089": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_delonge_ufo_media_pi_af7f7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_pentagon_video_claim_3d3b6d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_documentary_cert_d1882d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_hearing_celebrit_1684dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_goldie_hawn_recovere_b09c83": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_late_ufo_memory_prec_c108fe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_repeated_ufo_retelli_e31a22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_confidence_accur_ea7ea8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_interview_questi_c45ad9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_source_memory_co_63d01b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_alien_certainty_stig_2746ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_interview_93ac8e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_social_per_2d2771": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_fame_vs_ufo_evidence_134b61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_reporting_reform_nor_ecffe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_responsible_celebrit_ccc517": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_aaro_closed_case_bia_922da3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_authentic_video_alie_f19c59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_circular_ufo_reporti_e4f5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_delonge_hearing_over_f3fa4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_lovato_ce5_evidence_34f6a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_to_the_stars_conflic_493ebb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_early_ufo_records_459d67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_goldie_hawn_memory_6d20f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_kim_wilde_cultural_t_0e14de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_late_ufo_memory_drif_cd266b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_missing_ufo_records_34e877": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_russell_call_gap_80c7b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_aykroyd_family_ufo_b_5c65a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_montreal_ufo_evidenc_f23ffb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_mufon_celebrity_norm_c9e18d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_power_line_ufo_specu_a7a4b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_unplugged_cumulative_090dfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_vineyard_lights_spee_805dfb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_celebrity_storytelli_e67558": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_joshua_tree_blue_orb_f98be9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_lovato_hypnosis_abdu_d97cd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_sedona_contact_medit_d83750": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_vulture_city_carmen_807fc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_early_account_change_af0235": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_independent_ufo_witn_60026e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_radar_confirmation_l_26e9ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_records_test_ufo_cla_5fd1af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_media_provenance_5123ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_size_speed_limit_29f6cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_1974_ufo_inte_d29a13": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_music_leg_2b6f1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_possible_88242a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_may_pang_witness_acc_be67fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_missing_photos_witne_c354f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_oliver_hudson_second_35b0c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_aircraft_for_61fb68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_atc_radar_li_092d42": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_delayed_memo_0b83a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_pilot_perspe_df0636": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_which_phoeni_bb84fa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_cowitness_memory_pan_d8c44c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_lennon_cue_attention_eb991b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_matching_ufo_details_39a64b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_pang_testimony_rules_b9b402": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_shared_terrace_indep_0991db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_two_witnesses_no_tri_dfe28e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_giant_craft_light_il_00b283": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_independent_witness_f01c0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_mass_sighting_event_a2e18a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_instrument_corro_87b8d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_memory_contamina_1ad988": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_aguadilla_ufo_recons_c88caf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_galileo_infrared_tra_e57698": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_distance_measure_38f854": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_corrobora_e530f8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_missed_de_ef63d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_spectroscopy_lig_8419db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_isaac_brock_phoenix_f5825a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_lennon_album_sleeve_95d85e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nina_hagen_ufo_song_4bb829": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nobody_told_me_ufo_l_014dbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_songs_vs_interviews_4e4bba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_tom_delonge_ufo_worl_397820": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_ground_based_uap_obs_c2be90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_open_reproducible_ua_0b8258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_standardized_public_be15fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_multisensor_cros_49f636": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_sensor_metadata_554bbe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_video_speed_with_d1ece6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_aircraft_false_accel_30811b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_al_taqaddum_balloon_b84528": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_carter_ufo_atmospher_735a0a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_puerto_rico_ufo_pers_999809": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_rocket_plume_ufo_spi_23412f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_roswell_project_mogu_71d97c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_delonge_disclosure_p_ebe92d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_gofast_parallax_expl_cbcade": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_military_sensor_visu_169df3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_pentagon_authenticat_35ba38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_ufo_video_release_ti_1a1d35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_unidentified_to_alie_1525a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_a10_flare_disposal_3d556e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_brightness_distance_9377b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flares_false_hoverin_3e9404": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_explanation_li_980038": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_lines_and_arcs_145a4a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_reenactment_vi_45c293": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_arizona_sightings_ro_67ea79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_giant_craft_percepti_3077cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_military_flight_reco_4b7162": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_phoenix_flare_videos_c981ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_stanley_telescope_cl_f3638b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_symington_delayed_di_5a78ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_delonge_celebrity_ac_0b4ff1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_mellon_security_refr_cb25a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_navy_videos_media_ca_071253": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_pentagon_video_authe_5045b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_podesta_emails_delon_b6dcb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_ttsa_entertainment_s_cf6433": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_navy_videos_actual_p_5ebd7d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_army_agreement_090212": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_borrowed_credib_1e114f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_business_model_7387c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_mainstream_medi_b3e79a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_navy_reporting_90c0d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_alien_autopsy_editin_6f335f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_celebrity_ufo_author_fc7ced": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_music_credibilit_080b5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_mystery_business_439a67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_reconstruction_d_877967": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_suspense_editing_09012c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_camera_artefacts_ufo_7af595": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_missing_distance_fal_eea6b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_official_ufo_case_da_596dbf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_pilot_ufo_misidentif_329f24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_puerto_rico_motion_p_faa025": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_unresolved_not_alien_1717d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_aircraft_motion_para_2399b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_night_ufo_depth_illu_bd9354": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_single_viewpoint_ufo_7e8387": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_ufo_size_range_error_d54790": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_independent_ufo_witn_60026e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_angular_measurem_7d0905": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_exact_time_place_1e58ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_flight_record_li_358d80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_original_file_me_d886ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_weather_wind_che_5a004f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 242,
+  "regressions": []
+}

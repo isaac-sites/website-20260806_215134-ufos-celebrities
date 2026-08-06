@@ -1,0 +1,5075 @@
+{
+  "generated_at_utc": "2026-08-06T20:36:37.299642Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 211,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "ufos_and_celebrities_846269",
+      "title": "When Famous UFO Stories Meet the Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Celebrity UFO Sightings",
+        "UAP Interpretation vs. Scientific Data",
+        "Criteria for Assessing UFO Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915",
+      "title": "Why Real UFO Footage Can Still Mislead",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "timeline_snake"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Hierarchy of UAP Evidence Claims",
+        "Authenticity vs. Identification Analysis",
+        "AARO Go Fast Case Resolution Steps"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_aguadilla_transmediu_a3dba2",
+      "title": "Did the Aguadilla UFO Really Enter the Ocean?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Aguadilla UAP Transmedium Interpretation",
+        "Factors Influencing Aguadilla Video Quality",
+        "Aguadilla UAP Identification Comparison"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_exotic_ufo_evidence_59741f",
+      "title": "What Would Strong Evidence for an Exotic UFO Require?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Scientific UAP Investigation Workflow",
+        "NASA and AARO Evidence Standards",
+        "Minimum Evidence Package Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_gofast_motion_parall_80b7dc",
+      "title": "Was the Go Fast UFO Really Moving That Fast?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Go Fast Geometric Reconstruction",
+        "Go Fast Visual vs. Geometric Analysis",
+        "Go Fast Case Resolution Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_distance_speed_u_9ce7bd",
+      "title": "Why UFO Videos Cannot Measure Speed Without Distance",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Calculating Real World UAP Performance",
+        "The Go Fast Video Interpretation Gap",
+        "Required Data for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_sensor_artefacts_5fc58f",
+      "title": "When the Weirdest UFO Feature Comes From the Camera",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "FLIR Targeting System Processing Chain",
+        "Sensor Artifacts vs. Physical Reality",
+        "AARO Evidence Verification Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_authentic_footage_no_cba915_ufo_video_authentica_d43770",
+      "title": "What Does Authentic UFO Footage Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Official Military Video Authentication Process",
+        "Authentication vs. Identification Scope",
+        "AARO Resolved UAP Case Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026",
+      "title": "Did Celebrity Pressure Change Official UFO Policy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UAP Policy Evolution Time line",
+        "Advocacy vs. Institutional Findings",
+        "UAP Governance Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_aaro_official_uap_ro_80ddca",
+      "title": "What the Pentagon's Permanent UAP Office Actually Does",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "AARO Data Integration Workflow",
+        "Ad Hoc vs AARO Governance",
+        "AARO Multi Domain Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_congress_uap_oversig_d6a635",
+      "title": "How Congress Made UAPs a Government Accountability Issue",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Oversight Institutionalization Process",
+        "Interpretations of UAP Data Findings",
+        "AARO Oversight Objectives and Concerns"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_delonge_uap_policy_a_f8ed14",
+      "title": "How Tom De Longe Made UAPs a Policy Issue",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "TTSA Strategy for UAP Policy Influence",
+        "UAP Framing: De Longe vs. Government",
+        "Mechanisms of Policy Attention"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_navy_uap_reporting_r_d4ccaa",
+      "title": "How New UAP Rules Changed What Pilots Reported",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Navy UAP Reporting Evolution",
+        "Old vs New Reporting Standards",
+        "Potential UAP Explanations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_pentagon_videos_publ_2d473c",
+      "title": "Why Three Military Videos Changed the UAP Debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pentagon UAP Video Release Time line",
+        "Interpretations of Navy Footage",
+        "Factors Driving Political Impact"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_advocacy_o_b06026_uap_action_not_alien_efd6bb",
+      "title": "Why More UAP Action Did Not Mean Alien Proof",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "UAP Investigation vs. Public Advocacy",
+        "AARO Classification of UAP Sightings",
+        "NASA UAP Scientific Methodology"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907",
+      "title": "Are Celebrity Pilots Better UFO Witnesses?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Validating a Pilot's UFO Sighting",
+        "Pilot Expertise vs. Visual Limits",
+        "Evidence Types for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_airborne_motion_para_d07f90",
+      "title": "When the Aircraft Creates the UFO's Speed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanism of Motion Parallax Illusions",
+        "Parallax vs. Genuine Acceleration Evidence",
+        "Pilot Perception Limitations in Aviation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_celebrity_pilot_veri_6b7016",
+      "title": "What Evidence Can Verify a Celebrity Pilot UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aviation UAP Reconstruction Workflow",
+        "Radar and ATC Data Types",
+        "Evidence for Testable Sightings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_night_cockpit_illusi_2aa833",
+      "title": "Why Night Cockpits Can Mislead Expert Pilots",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Nighttime Visual Illusions in Cockpits",
+        "Pilot Testimony vs. Instrument Data",
+        "Factors Influencing Nighttime Misperception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_pilot_confidence_acc_519bdb",
+      "title": "Does Pilot Confidence Make a UFO Claim Accurate?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aviation Expertise in UFO Testimony",
+        "Confidence vs Accuracy in Night Flight",
+        "Investigative Data Separation Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_range_ambiguity_ufo_841123",
+      "title": "Why Pilots Cannot Size a Light in Darkness",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_horizon",
+        "list_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Pilot Observation vs. Interpretation",
+        "Resolving Range Ambiguity via Sensors",
+        "Factors Distorting Night Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_pilot_ufo_a48907_separate_lights_gian_60d6ba",
+      "title": "Do V Shaped Lights Prove One Huge UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gestalt Perceptual Organization Mechanisms",
+        "V Shaped Light Interpretations",
+        "Evidence for Physical Connections"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb",
+      "title": "Does Celebrity Status Make a UFO Claim Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Scientific UAP Data Requirements",
+        "Fame vs. Scientific Evidence",
+        "Common Credibility Fallacies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_credibilit_a2305e",
+      "title": "Why a Credible Celebrity Can Still Be Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Witness Interpretation Pipeline",
+        "Credibility vs. Scientific Evidence",
+        "Required Data for UAP Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_celebrity_ufo_memory_49a3a3",
+      "title": "How Celebrity UFO Stories Change Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Memory Drift in UFO Accounts",
+        "Contemporary vs. Retrospective UFO Evidence",
+        "Factors Influencing UFO Memory Drift"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_early_ufo_records_va_ae6e1a",
+      "title": "What Contemporary Records Can Actually Prove",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of Celebrity UFO Narratives",
+        "Historical vs Scientific Data Limits",
+        "Factors Influencing Narrative Change"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_military_ufo_video_l_33c44a",
+      "title": "What Solved UFO Videos Reveal About Eyewitness Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Geometry Reconstruction Process",
+        "Visual Perception vs. Geometric Reality",
+        "Variables for Evaluating Celebrity Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_multiple_witness_lim_949620",
+      "title": "Why More Witnesses Do Not Always Solve It",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "timeline_horizon",
+        "tree_map"
+      ],
+      "roles": [
+        "other",
+        "chronology",
+        "taxonomy"
+      ],
+      "titles": [
+        "Shared vs. Independent Observations",
+        "Triangulation Data Collection Process",
+        "Factors Influencing Witness Reliability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_status_vs_fc4dbb_pilot_night_light_il_dbbb37",
+      "title": "Why Pilots Can Misjudge Strange Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Pilot Perception and Instrument Reliance",
+        "Aviation Expertise vs. Visual Geometry",
+        "Common Night Flight Visual Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581",
+      "title": "When Celebrity UFO Investigations Become Television",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Narrative Construction in UFO Documentaries",
+        "Entertainment vs. Scientific Investigation",
+        "Signals of Narrative Substitution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_delonge_insider_auth_e3a3a0",
+      "title": "How Tom De Longe Made UFO Claims Look Official",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Unidentified Series Insider Network",
+        "Credibility vs. Evidence Standards",
+        "Visual Language of Unidentified"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_lovato_quest_vs_evid_bc3461",
+      "title": "Did Demi Lovato's UFO Quest Prove Anything?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Demi Lovato's Documentary Narrative Arc",
+        "Personal Conviction vs Scientific Evidence",
+        "Types of Reported Experiences"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_editing_revelati_5570bc",
+      "title": "How UFO Television Manufactures a Sense of Discovery",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "list_vertical",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Road Movie Structure of UFO Series",
+        "Editorial Devices in UFO Documentaries",
+        "Persuasive vs. Analytical Presentation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hotspot_feedback_aa9846",
+      "title": "Do UFO Hotspots Create Their Own Sightings?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The UFO Reporting Feedback Loop",
+        "Reporting Loop vs. Physical Hotspot",
+        "Factors Influencing Sighting Clusters"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_ufo_hypnosis_false_c_f9890a",
+      "title": "Can Hypnosis Recover a Real Alien Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Hypnotic Memory Elaboration",
+        "Subjective Experience vs Objective Evidence",
+        "Factors Influencing Hypnotic Elaboration"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_docume_bdf581_witnesses_vs_sensor_7f18c3",
+      "title": "Why More UFO Witnesses Do Not Equal Proof",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Eyewitness Testimony vs. Sensor Data",
+        "Missing Technical Evidence Categories",
+        "Narrative vs. Scientific Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da",
+      "title": "How Celebrities Turn UFO Claims Into Headlines",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Media Amplification Cycle of UFO Claims",
+        "Amplification Chain vs. Evidence Chain",
+        "Categories of Media Driven UFO Content"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_repeti_232119",
+      "title": "When Repetition Makes a UFO Claim Seem Verified",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Celebrity UFO Claim Propagation Cycle",
+        "Repetition vs. Independent Corroboration",
+        "Criteria for Verifying UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_celebrity_ufo_social_1f8089",
+      "title": "How a Celebrity UFO Post Becomes News",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Celebrity UFO Content Diffusion Cycle",
+        "Celebrity vs. Witness UFO Claims",
+        "UFO Reporting Verification Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_delonge_ufo_media_pi_af7f7f",
+      "title": "How Tom De Longe Built a UFO Media Pipeline",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "De Longe's Transition to UFO Disclosure",
+        "To The Stars Academy Infrastructure",
+        "Information Flow in the De Longe Network"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_pentagon_video_claim_3d3b6d",
+      "title": "What the Pentagon UFO Videos Actually Proved",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Pentagon Navy Video Authentication Path",
+        "Authenticity vs. Identification Distinction",
+        "Factors Limiting UAP Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_documentary_cert_d1882d",
+      "title": "Why UFO Documentaries Can Feel More Certain Than Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Documentary Narrative Construction Steps",
+        "NASA UAP Study vs Documentary Narrative",
+        "Authority Signals in UFO Media"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_media_cef9da_ufo_hearing_celebrit_1684dc",
+      "title": "How a UFO Hearing Became a Celebrity Victory Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UAP Hearing Media Transformation Path",
+        "Interpretations of the 2023 UAP Hearing",
+        "Witness Testimony Categories at Hearing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d",
+      "title": "How Memory Changes a Celebrity UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Reconstruction of UFO Sightings",
+        "Early vs Late UFO Testimony",
+        "Criteria for Credibility Assessment"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_goldie_hawn_recovere_b09c83",
+      "title": "What Can Goldie Hawn's Recovered Memory Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Goldie Hawn's Encounter Key Stages",
+        "Memory Science Interpretations",
+        "Evidence Limits of Hawn's Account"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_late_ufo_memory_prec_c108fe",
+      "title": "Why Old UFO Memories Sound More Precise",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cognitive Mechanisms of Memory Reconstruction",
+        "Memory Accuracy vs. Witness Confidence",
+        "Factors Limiting Initial UFO Perception"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_repeated_ufo_retelli_e31a22",
+      "title": "How Retelling Makes UFO Stories Feel Certain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Memory Reconstruction of UFO Sightings",
+        "Confidence vs. Accuracy in Testimony",
+        "Reliable Evidence for UFO Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_confidence_accur_ea7ea8",
+      "title": "Can a Confident UFO Witness Still Be Wrong?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Memory Evolution in UFO Sightings",
+        "Confidence vs. Memory Accuracy",
+        "Evaluating Celebrity UFO Accounts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_interview_questi_c45ad9",
+      "title": "When UFO Questions Supply the Missing Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Reconstruction in UFO Interviews",
+        "Celebrity vs. Forensic Interviewing",
+        "Signs of Interviewer Framed Memory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_memory_f7cd1d_ufo_source_memory_co_63d01b",
+      "title": "Did the Witness See It or Learn It Later?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Source Confusion",
+        "Content vs. Provenance in Memory",
+        "Types of Source Confusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd",
+      "title": "Can Celebrity Stories Make UFO Reporting Safer?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Path to Responsible Celebrity Disclosure",
+        "Benefits vs Risks of Normalisation",
+        "Mechanisms of Celebrity Influence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_alien_certainty_stig_2746ab",
+      "title": "When Alien Claims Undermine Serious UFO Reporting",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "summary"
+      ],
+      "titles": [
+        "UAP Reporting Language Comparison",
+        "Commercial Storytelling Feedback Loop",
+        "SETI Scientific Communication Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_interview_93ac8e",
+      "title": "How Celebrity Interviews Turn Sightings Into Conversation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mainstream Media Gateway for UAP",
+        "Constructive vs Distorted Coverage",
+        "Notable Celebrity UAP Case Studies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_celebrity_social_per_2d2771",
+      "title": "Why Famous Witnesses Make Reporting Feel Safer",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanisms of Celebrity Stigma Reduction",
+        "UAP Reporting: Observation vs. Conclusion",
+        "Limits of Celebrity Led Normalization"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_fame_vs_ufo_evidence_134b61",
+      "title": "Does Celebrity Status Make a UFO Claim Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "list_vertical",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Credibility vs. Evidence in UAP Reports",
+        "NASA Recommended Corroboration Types",
+        "Questions for Evaluating Any Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_reporting_reform_nor_ecffe4",
+      "title": "When Celebrity Openness Meets Official Reporting Reform",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "U.S. Navy and Air Force Reporting Time line",
+        "Celebrity Influence vs. Institutional Reform",
+        "Core Components of Modern UAP Reporting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_report_4341fd_responsible_celebrit_ccc517",
+      "title": "What a Responsible Celebrity UFO Report Looks Like",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Preserving Digital Evidence for NASA Study",
+        "Observation vs. Interpretation Standards",
+        "Essential Witness Data Points"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e",
+      "title": "Where Celebrity UFO Investigations Go Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Distortion of UAP Evidence Chain",
+        "Scientific vs. Commercial Incentives",
+        "Failure Modes in Celebrity Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_aaro_closed_case_bia_922da3",
+      "title": "What Happens to the UFO Cases That Get Solved?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "AARO UAP Investigation Filtering Process",
+        "AARO Resolved Case Categories",
+        "Public Perception vs. AARO Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_authentic_video_alie_f19c59",
+      "title": "When Genuine UFO Footage Gets Overinterpreted",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Transformation of Military Footage to Alien Claims",
+        "Interpretations of the Gimbal Navy Video",
+        "Analytical Questions for Independent UAP Review"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_circular_ufo_reporti_e4f5f1",
+      "title": "When Many UFO Sources Are Really One",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Circular Reporting Propagation Key Stages",
+        "Evidence vs. Repetition Analysis",
+        "Factors Creating Illusion of Truth"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_delonge_hearing_over_f3fa4d",
+      "title": "Did the UAP Hearing Confirm Aliens?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "UAP Evidence Evaluation Stages",
+        "Hearing Facts vs. Public Framing",
+        "Witness Testimony Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_lovato_ce5_evidence_34f6a1",
+      "title": "Can Celebrity CE 5 Experiences Count as Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "CE 5 Contact Methodology Steps",
+        "Subjective Experience vs Scientific Evidence",
+        "Common Explanations for CE 5 Lights"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_celebrity_ufo_resear_38817e_to_the_stars_conflic_493ebb",
+      "title": "Can UFO Research Double as Entertainment?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "TTSA Business Model Lifecycle",
+        "Scientific vs. Entertainment Incentives",
+        "TTSA Integrated Organizational Roles"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb",
+      "title": "Which Celebrity UFO Accounts Have the Best Records?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Documentation Quality of Celebrity UFO Claims",
+        "Case Study Documentation Comparison",
+        "Primary Sources for UFO Research"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_early_ufo_records_459d67",
+      "title": "What Early UFO Records Preserve That Memory Cannot",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Verifying Celebrity UFO Claims",
+        "Early Records vs. Later Retellings",
+        "Types of Contemporary Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_goldie_hawn_memory_6d20f2",
+      "title": "How Reliable Are Goldie Hawn's Recovered Memories?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Goldie Hawn's Memory Reconstruction Time line",
+        "Sincerity vs. Historical Accuracy",
+        "Mechanisms of Memory Distortion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_kim_wilde_cultural_t_0e14de",
+      "title": "Does Kim Wilde's Album Count as UFO Evidence?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Time line of Kim Wilde's UFO Claim",
+        "Album Evidence vs. Contemporary Records",
+        "Historical Value of the 2018 Album"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_late_ufo_memory_drif_cd266b",
+      "title": "Why Old UFO Stories Grow Clearer Over Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cognitive Reconstruction of UFO Memories",
+        "Confidence vs. Historical Corroboration",
+        "Verification Criteria for UFO Accounts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_missing_ufo_records_34e877",
+      "title": "What Does a Missing UFO Record Really Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Verifying Celebrity UFO Claims",
+        "Alleged vs. Surviving Records",
+        "Reasons for Record Unavailability"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_contemporary_vs_late_d818bb_russell_call_gap_80c7b4",
+      "title": "Can Records Confirm Kurt Russell's Phoenix Lights Call?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kurt Russell's Phoenix Lights Time line",
+        "Evidence Gaps in Phoenix Lights Claims",
+        "Components of the Aviation Report"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715",
+      "title": "How Dan Aykroyd Made UFO Belief Mainstream",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aykroyd Family Paranormal Heritage",
+        "Aykroyd's Montreal Hotel Sighting",
+        "Aykroyd's Public Advocacy Roles"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_aykroyd_family_ufo_b_5c65a7",
+      "title": "Why UFO Belief Felt Normal at Home",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "window"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Aykroyd Family Spiritualist Lineage",
+        "Interpretations of Unexplained Phenomena",
+        "Aykroyd's Influences on Ghostbusters"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_montreal_ufo_evidenc_f23ffb",
+      "title": "What Did Aykroyd See Over Montreal?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Aykroyd's Montreal UFO Description",
+        "Montreal Sighting Evidence Limits",
+        "Aykroyd's UFO Belief Framework"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_mufon_celebrity_norm_c9e18d",
+      "title": "How Aykroyd Helped Normalize UFO Reporting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Dan Aykroyd's MUFON Institutional Journey",
+        "Visibility vs. Evidential Quality",
+        "Aykroyd's Multi Faceted MUFON Roles"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_power_line_ufo_specu_a7a4b2",
+      "title": "Was the Red Light Drawing Power?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Dan Aykroyd's Canadian Sighting Key Stages",
+        "Interpretations of the Red Light",
+        "Missing Empirical Evidence Checklist"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_unplugged_cumulative_090dfa",
+      "title": "When Many UFO Claims Feel Like Proof",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "fact_box_sidebar",
+        "logic_equation"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Narrative Techniques in Unplugged on UFOs",
+        "Interpretations of Unplugged on UFOs",
+        "Assumptions in Alien Visitation Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_dan_aykroyd_ufo_beli_7dc715_vineyard_lights_spee_805dfb",
+      "title": "Could Aykroyd Measure Those Vineyard Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Aykroyd's Martha's Vineyard Observation Key Stages",
+        "Visual Testimony vs. Quantitative Data",
+        "Requirements for Quantifying Aerial Motion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82",
+      "title": "What Did Demi Lovato's UFO Series Investigate?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_petal"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Unidentified with Demi Lovato Episode Arc",
+        "Methodological Limitations in UFO Evidence",
+        "Core Elements of the Series Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_catalina_underwater_9d8f91",
+      "title": "Are UFOs Hiding Beneath Catalina Island?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Catalina Base Theory",
+        "Catalina Underwater Base Evidence Gap",
+        "Catalina Channel USO Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_celebrity_storytelli_e67558",
+      "title": "When Personal Healing Becomes UFO Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Demi Lovato's Narrative Investigation Flow",
+        "Subjective Experience vs Scientific Standards",
+        "Narrative Functions of Scepticism"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_joshua_tree_blue_orb_f98be9",
+      "title": "What Did Demi Lovato See in Joshua Tree?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Demi Lovato's Joshua Tree Journey",
+        "Interpretations of the Blue Orb",
+        "Evidence Quality in Joshua Tree"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_lovato_hypnosis_abdu_d97cd4",
+      "title": "Did Hypnosis Recover an Alien Encounter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Demi Lovato's Hypnotic Regression Process",
+        "Subjective Experience vs Objective Evidence",
+        "Limitations of Hypnotic Regression"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_sedona_contact_medit_d83750",
+      "title": "Can Meditation Really Summon UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Sedona CE 5 Contact Protocol",
+        "Interpretation vs. Causation in Sedona",
+        "Rigorous Contact Testing Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82_vulture_city_carmen_807fc4",
+      "title": "Did the Ghost Device Really Answer Lovato?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "The Carmen Narrative Construction",
+        "Paranormal Device Interpretations",
+        "Psychological Drivers of Storytelling"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0",
+      "title": "How to Check a Celebrity UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Verifying Celebrity UFO Claims",
+        "Data Quality vs. Witness Sincerity",
+        "NASA and AARO UAP Classifications"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_early_account_change_af0235",
+      "title": "Which UFO Details Were There From the Start?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Key Stages in Celebrity UFO Testimony",
+        "Early vs. Later Testimony Traits",
+        "Factors Influencing Memory Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_independent_ufo_witn_60026e",
+      "title": "Do More Witnesses Really Make the Story Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Time line of Witness Memory Contamination",
+        "Strong vs Weak UFO Corroboration",
+        "Hierarchy of Independent Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_radar_confirmation_l_26e9ea",
+      "title": "Did Radar Confirm the UFO or Something Else?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Validating Radar UFO Claims",
+        "Radar System Capabilities Comparison",
+        "Common Radar Return Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_records_test_ufo_cla_5fd1af",
+      "title": "What Records Could Solve the UFO Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tree_map",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "UFO Sighting Verification Workflow",
+        "Independent Data Sources for Verification",
+        "Evaluating Sighting Corroboration"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_media_provenance_5123ae",
+      "title": "Has the UFO Footage Been Changed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFO Media Provenance Workflow",
+        "Compression Artifacts vs Reality",
+        "Common Media Alterations in UFO Clips"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0_ufo_size_speed_limit_29f6cb",
+      "title": "Could the Witness Really Judge Its Speed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Calculating True Speed from Sightings",
+        "Visual Perception vs. Physical Measurement",
+        "Environmental Constraints for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a",
+      "title": "What Did John Lennon See Over New York?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "John Lennon's 1974 UFO Documentation",
+        "Witness Descriptions of the Craft",
+        "Evidence Tiers of the Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_1974_ufo_inte_d29a13",
+      "title": "What Lennon Said About the UFO in 1974",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lennon UFO Sighting Key Stages",
+        "Lennon's Aircraft Rejection Logic",
+        "Visual Features of the 1974 Craft"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_music_leg_2b6f1e",
+      "title": "How Lennon's UFO Sighting Entered Pop Culture",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Lennon's UFO Documentation Time line",
+        "Documentation vs. Evidence Analysis",
+        "Lennon's UFO Artistic Integration"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_lennon_ufo_possible_88242a",
+      "title": "What Could Lennon and Pang Have Seen?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Conventional Explanations for Manhattan Sighting",
+        "Missing Data for Manhattan Sighting Analysis",
+        "Witness Observations of the 1974 Craft"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_may_pang_witness_acc_be67fa",
+      "title": "How Reliable Was May Pang's UFO Account?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "May Pang's 1974 Observation Key Stages",
+        "Pang Testimony Evidential Limits",
+        "Shared Visual Characteristics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_missing_photos_witne_c354f8",
+      "title": "Where Did the Supporting Evidence Go?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "John Lennon UFO Sighting Time line",
+        "Unverified Evidence in New York",
+        "Missing Primary Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a_walls_bridges_ufo_no_5e7237",
+      "title": "Why Lennon's Album Note Matters Most",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Chronology of the Walls and Bridges Note",
+        "Evidence Strengths of the Album Note",
+        "Limits of the Walls and Bridges Inscription"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55",
+      "title": "Did Kurt Russell Report the Phoenix Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Kurt Russell's Phoenix Lights Time line",
+        "Interpretations of the Phoenix Lights",
+        "Evidence Limits of the Russell Account"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_oliver_hudson_second_35b0c0",
+      "title": "How Much Does Oliver Hudson Add to the Story?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Kurt Russell's 1997 Phoenix Lights Key Stages",
+        "Hudson's Role as a Witness",
+        "Hudson's Contribution to the Mystery"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_aircraft_for_61fb68",
+      "title": "Could Russell's V Shaped Lights Have Been Aircraft?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_horizon",
+        "venn"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Phoenix Lights Interpretations Comparison",
+        "Mitch Stanley's Telescope Observation",
+        "Night Vision Perceptual Effects"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_atc_radar_li_092d42",
+      "title": "What Does Russell's Air Traffic Control Call Prove?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kurt Russell's Phoenix Lights Communication",
+        "Radar Limitations vs. Visual Reality",
+        "Evidence Limitations of the ATC Call"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_delayed_memo_0b83a4",
+      "title": "Why Did Russell Forget the Phoenix Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Kurt Russell's Phoenix Lights Time line",
+        "Interpretations of the Memory Gap",
+        "Retrieval Cues in the Phoenix Lights"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_pilot_perspe_df0636",
+      "title": "What Did Kurt Russell Actually See From the Cockpit?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kurt Russell's Phoenix Lights Observation",
+        "Pilot Perspective vs. Visual Limits",
+        "Key Characteristics of the Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_russell_which_phoeni_bb84fa",
+      "title": "Which Phoenix Lights Did Kurt Russell Report?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Phoenix Lights Key Stages March 13, 1997",
+        "Comparing the Two Phoenix Events",
+        "Kurt Russell's Testimony Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd",
+      "title": "Why May Pang Matters to Lennon's UFO Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1974 Lennon Sighting",
+        "Corroboration vs. Independent Evidence",
+        "Visual Features of the 1974 Sighting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_cowitness_memory_pan_d8c44c",
+      "title": "Could Shared Memory Strengthen the UFO Story?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_butterfly"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Mechanisms of Co Witness Memory Convergence",
+        "Lennon Pang Sighting Evidence Quality",
+        "Factors Influencing UFO Credibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_lennon_cue_attention_eb991b",
+      "title": "Did Lennon's Warning Shape What Pang Saw?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1974 Lennon Sighting",
+        "Psychological Analysis of Pang's Testimony",
+        "Pang's Consistent Visual Descriptions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_matching_ufo_details_39a64b",
+      "title": "Which UFO Details Did Pang and Lennon Share?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "list_vertical",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Lennon and Pang Visual Matches",
+        "Evidence Hierarchy of the Sighting",
+        "Limitations of the 1974 Sighting Record"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_pang_testimony_rules_b9b402",
+      "title": "What Does May Pang's Testimony Actually Rule Out?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lennon and Pang Sighting Time line",
+        "Weakened Solitary Explanations",
+        "Limits of Pang's Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_shared_terrace_indep_0991db",
+      "title": "How Independent Was May Pang's UFO Sighting?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Lennon and Pang Sighting Key Stages",
+        "Corroboration vs Independent Confirmation",
+        "Lennon's Observed Craft Features"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_may_pang_second_witn_53b4fd_two_witnesses_no_tri_dfe28e",
+      "title": "Why Two Witnesses Still Could Not Measure the UFO",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lennon and Pang Witness Dynamics",
+        "Visual Cues for Distance Estimation",
+        "Variables in UFO Size Calculation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3",
+      "title": "How Scientists Could Measure a UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Galileo Project UAP Investigation Key Stages",
+        "Sensor Capabilities in UAP Research",
+        "Factors Defining Strong UAP Measurements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_aguadilla_ufo_recons_c88caf",
+      "title": "What Really Happened in the Aguadilla UFO Video",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Aguadilla Multi Sensor Reconstruction Process",
+        "Aguadilla Interpretation Discrepancies",
+        "Aguadilla Multi Sensor Best Practices"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_galileo_infrared_tra_e57698",
+      "title": "How 500,000 Tracks Became 144 Ambiguities",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "grid_stats",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Galileo Project Infrared Array Calibration",
+        "Infrared Array Commissioning Performance Metrics",
+        "Data Limitations in Infrared Tracking"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_distance_measure_38f854",
+      "title": "Why UFO Videos Cannot Measure Speed Alone",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Multimodal UAP Data Integration Process",
+        "Angular Motion vs Physical Motion",
+        "Common Range Estimation Errors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_corrobora_e530f8",
+      "title": "When Multiple Sensors See the Same UFO",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UAP Multi Sensor Data Alignment",
+        "Sensor Strengths and Limitations",
+        "Corroboration Criteria for UAPs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_sensor_missed_de_ef63d6",
+      "title": "When the UFO Sensor Is the Problem",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Galileo Project Sensor Calibration Workflow",
+        "Interpreting Fragmented Flight Tracks",
+        "Factors Reducing Detection Probability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3_ufo_spectroscopy_lig_8419db",
+      "title": "Can a UFO's Light Reveal What It Is",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UAP Detection via Tracking Telescopes",
+        "Spectral Signatures of Light Sources",
+        "Multimodal Sensors in Galileo Project"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820",
+      "title": "Do More Witnesses Make a UFO Claim True?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Validating Independent UFO Witness Accounts",
+        "Human Perception vs. Instrumental Measurement",
+        "Hierarchy of UAP Evidence Quality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_giant_craft_light_il_00b283",
+      "title": "Why Separate Lights Look Like One Huge Craft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Cognitive Chain of Size Estimation",
+        "Perceptual Completion vs. Physical Reality",
+        "Factors Enhancing the Giant Craft Illusion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_independent_witness_f01c0b",
+      "title": "What Independent UFO Witnesses Can Actually Prove",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Witness Verification Process",
+        "Objective vs Subjective Witness Details",
+        "Environmental Factors Affecting Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_mass_sighting_event_a2e18a",
+      "title": "Was One Mass UFO Sighting Really Several Events?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Phoenix Lights 1997 Key Stages",
+        "Media Narrative Distortion Factors",
+        "Data Analysis Methodology for UFOs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_instrument_corro_87b8d3",
+      "title": "When Radar and Cameras Strengthen UFO Testimony",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Matching Sensor Data to Testimony",
+        "Eyewitness vs. Instrument Data",
+        "Requirements for Reliable Sensor Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_memory_contamina_1ad988",
+      "title": "How UFO Witnesses Can Acquire the Same Memory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Memory Contamination",
+        "Confidence vs. Accuracy in UFO Sightings",
+        "Best Practices for UFO Witness Interviewing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_multiple_witness_ufo_dbe820_ufo_triangulation_li_e1e932",
+      "title": "Can Multiple Witnesses Measure a UFO's Distance?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Triangulation Requirements for UAP Analysis",
+        "Angular Motion vs Physical Velocity",
+        "Factors Defeating Geometric Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf",
+      "title": "How Music Turned UFO Sightings Into Cultural Memory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "John Lennon's UFO Record Time line",
+        "Musical Preservation vs. Scientific Records",
+        "Methods of Musical UFO Preservation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_isaac_brock_phoenix_f5825a",
+      "title": "Isaac Brock",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Isaac Brock's Phoenix Lights Time line",
+        "Lyrical Style vs. UFO Narrative",
+        "Evidence of Brock's Phoenix Connection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_lennon_album_sleeve_95d85e",
+      "title": "John Lennon s",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in Lennon's UFO Claim",
+        "Evidence Strengths of Album Sleeve",
+        "Data Excluded from Sleeve Note"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nina_hagen_ufo_song_4bb829",
+      "title": "Nina Hagen s",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Nina Hagen's Malibu UFO Time line",
+        "Hagen's Experience vs. Public Reception",
+        "Core Elements of the UFO Song"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_nobody_told_me_ufo_l_014dbe",
+      "title": "How Nobody Told",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Lennon UFO Narrative Time line",
+        "Sleeve Note vs. Song Lyric",
+        "Factors Preserving the UFO Story"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_songs_vs_interviews_4e4bba",
+      "title": "Why some celebrity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Musical Lifecycle of UFO Narratives",
+        "Interviews vs. Songs in UFO Culture",
+        "Methods of Musical Memory Preservation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_music_preserves_ufo_4c43bf_tom_delonge_ufo_worl_397820",
+      "title": "Tom De Longe s",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "De Longe's Musical UFO Evolution",
+        "Interpretations of De Longe's UFO Art",
+        "Core Themes in Angels & Airwaves"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878",
+      "title": "What NASA Says UFO Research Still Needs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA UAP Data Quality Workflow",
+        "Eyewitness vs. Calibrated Data",
+        "NASA UAP Data Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_ground_based_uap_obs_c2be90",
+      "title": "Inside a Scientific Observatory Built to Study UAPs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Automated UAP Data Processing Workflow",
+        "Multimodal Observatory Instrument Suite",
+        "Baseline vs. Anomalous Data Types"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_open_reproducible_ua_0b8258",
+      "title": "Should the Public Be Able to Recheck UAP Claims?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Data Reproducibility Workflow",
+        "Balancing Security and Scientific Openness",
+        "Artifacts of Image Processing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_standardized_public_be15fd",
+      "title": "Can Smartphone Reports Turn Sightings Into Usable Data?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Standardized UAP Data Collection Workflow",
+        "Required Metadata for AARO Reporting",
+        "Smartphone Sensors vs. Scientific Instruments"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_multisensor_cros_49f636",
+      "title": "Why One Sensor Is Never Enough for UAPs",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NASA Multisensor Verification Workflow",
+        "Sensor Strengths and Limitations",
+        "Identifying UAP Sensor Artefacts"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_sensor_metadata_554bbe",
+      "title": "The Missing Data Behind Most UAP Videos",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Preserving Original UAP Record ings",
+        "Metadata vs. Visual Imagery",
+        "Sensor Metadata Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_nasa_uap_research_st_bb7878_uap_video_speed_with_d1ece6",
+      "title": "Can a UAP Video Really Prove Extreme Speed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Data Reconstruction Process",
+        "Angular Motion vs Physical Speed",
+        "Required Data for UAP Validation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5",
+      "title": "What Ordinary Objects Look Like UFOs?",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Resolved UAP Categories",
+        "Phoenix Lights Interpretations",
+        "Mechanisms of Visual Distortion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_aircraft_false_accel_30811b",
+      "title": "When Ordinary Aircraft Appear to Make Impossible Moves",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Go Fast Case Resolution Steps",
+        "Perceived vs. Physical Aircraft Motion",
+        "Data Requirements for Acceleration Testing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_al_taqaddum_balloon_b84528",
+      "title": "How a Balloon Cluster Became an Iraqi UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Al Taqaddum Case Investigation",
+        "Al Taqaddum 'Jellyfish' Visual Interpretations",
+        "Factors Creating Optical Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_carter_ufo_atmospher_735a0a",
+      "title": "Could Atmospheric Distortion Explain Carter's UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Jimmy Carter UFO Sighting Time line",
+        "Venus vs. Military Experiment Hypotheses",
+        "Missing Data in Carter's Record"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_puerto_rico_ufo_pers_999809",
+      "title": "Did the Puerto Rico UFO Really Enter the Sea?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Analysis of Aguadilla Footage",
+        "Visual Interpretations of Aguadilla Video",
+        "Factors Creating Infrared Illusions"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_rocket_plume_ufo_spi_23412f",
+      "title": "Why Rocket Launches Create Glowing UFO Spirals",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Formation of Twilight Rocket Plumes",
+        "UFO Reports vs. Twilight Phenomena",
+        "Causes of Spiral Patterns in Sky"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5_roswell_project_mogu_71d97c",
+      "title": "Was Roswell Debris Really From Project Mogul?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Roswell Official Narrative Time line",
+        "Project Mogul Debris Interpretations",
+        "Project Mogul Component Materials"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5",
+      "title": "What the Pentagon UFO Videos Really Confirmed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Pentagon UFO Video Public Release History",
+        "Interpretations of the Go Fast Footage",
+        "Official Authentication vs. Promotional Framing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_delonge_disclosure_p_ebe92d",
+      "title": "How Tom De Longe Shaped the UFO Narrative",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "list_vertical",
+        "timeline_horizon"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "The TTSA Communication Model",
+        "Navy Video Interpretations",
+        "TTSA Media Strategy Key Stages"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_gofast_parallax_expl_cbcade",
+      "title": "Was Go Fast Really Skimming the Ocean?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA Go Fast Geometry Reconstruction",
+        "Go Fast Visual vs. Technical Analysis",
+        "AARO and NASA Technical Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_military_sensor_visu_169df3",
+      "title": "Why Authentic UFO Footage Can Look Impossible",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "FLIR Targeting Pod Image Construction",
+        "Interpreting the Gimbal Video Rotation",
+        "Factors Distorting Pentagon UFO Footage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_pentagon_authenticat_35ba38",
+      "title": "What Did the Pentagon Really Confirm?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Navy Video Release Chronology",
+        "Authentication vs. Interpretation",
+        "Pentagon's Official Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_ufo_video_release_ti_1a1d35",
+      "title": "Who Released the Pentagon UFO Videos First?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Time line of Navy Video Circulation",
+        "Unofficial vs Official Release Status",
+        "Pentagon Release Objectives and Outcomes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_pentagon_videos_cele_e568a5_unidentified_to_alie_1525a4",
+      "title": "How 'Unidentified' Became an Alien Claim",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Communication Shift of Navy Footage",
+        "Official vs. Public Interpretations",
+        "Factors Influencing Navy Video Persuasion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3",
+      "title": "How Much Did Flares Explain in Phoenix?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Time line of the Phoenix Lights",
+        "Comparing Phoenix Lights Interpretations",
+        "Characteristics of Parachute Flares"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_a10_flare_disposal_3d556e",
+      "title": "What the A 10 Flare Mission Actually Explains",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "A 10 Flare Disposal Time line",
+        "Phoenix Lights Observation Analysis",
+        "A 10 Flare Disposal Mechanics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_brightness_distance_9377b3",
+      "title": "Why Bright Lights Looked Much Closer Than They Were",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception of Distant Flares",
+        "Phoenix Lights Distance Ambiguity",
+        "Night time Visual Perception Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_explanation_li_980038",
+      "title": "Where the Flare Explanation Reaches Its Limit",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Military Flare Deployment Key Stages",
+        "Phoenix Lights Evidence Boundaries",
+        "Verified Military Exercise Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_lines_and_arcs_145a4a",
+      "title": "How Separate Flares Become a Perfect Looking Formation",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Flare Deployment and Observation Key Stages",
+        "Phoenix Lights Visual Interpretation Analysis",
+        "Factors Shaping the Phoenix Arc Appearance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flare_reenactment_vi_45c293",
+      "title": "Do Later Flare Videos Settle the Phoenix Footage?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Phoenix Lights Flare Comparison",
+        "Barry M. Goldwater Range Analysis",
+        "Phoenix Lights Evidence Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_flare_fb02f3_flares_false_hoverin_3e9404",
+      "title": "Why Descending Flares Can Seem to Hover",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Military Flare Deployment Key Stages",
+        "Phoenix Lights Visual Perception Analysis",
+        "Factors Creating the Hovering Illusion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6",
+      "title": "Were the Phoenix Lights One Event or Several?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Key Stages in the 1997 Phoenix Lights",
+        "Interpretations of the Moving Formation",
+        "Evidence for the 10 p.m. Flare Display"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_arizona_sightings_ro_67ea79",
+      "title": "Can the Phoenix Lights Route Be Reconstructed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Arizona Sightings Key Stages March 13, 1997",
+        "Phoenix Lights Route Interpretations",
+        "Data Limitations in Route Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_giant_craft_percepti_3077cd",
+      "title": "Why Witnesses Saw One Enormous V Shaped Object",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gestalt Grouping in Phoenix Lights",
+        "Interpretations of Star Occlusion",
+        "Nighttime Distance Distortion Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_military_flight_reco_4b7162",
+      "title": "What Military Records Explain About the Phoenix Lights",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Operation Snowbird Training Time line",
+        "Phoenix Lights Explanatory Models",
+        "Factors Limiting Record Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_phoenix_flare_videos_c981ad",
+      "title": "Why the Famous Phoenix Videos Look Like Flares",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Phoenix Lights 1997 Evening Time line",
+        "Optical Illusions of Parachute Flares",
+        "Evidence for Military Flare Theory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_stanley_telescope_cl_f3638b",
+      "title": "Did a Telescope Solve the Moving Phoenix Lights?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mitch Stanley Telescope Observation Key Stages",
+        "Phoenix Lights Interpretation Comparison",
+        "Limitations of the Stanley Observation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_phoenix_lights_multi_0256e6_symington_delayed_di_5a78ac",
+      "title": "Why Did Fife Symington Wait Ten Years?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Fife Symington Disclosure Time line",
+        "Evidential Weight of Symington's Testimony",
+        "Symington's Witness Description Details"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8",
+      "title": "What Did To the Stars Academy Actually Achieve?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "TTSA Evolution and Navy Video Release",
+        "TTSA Claims vs. Laboratory Findings",
+        "TTSA Organizational Pillars and Assets"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_navy_videos_actual_p_5ebd7d",
+      "title": "What the Navy Videos Actually Proved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chronology of Navy UAP Footage",
+        "Interpretations of Gimbal and Go Fast",
+        "Data Layers in Navy UAP Footage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_army_agreement_090212",
+      "title": "Was the Army Agreement Proof of UFO Technology?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "TTSA and U.S. Army CRADA Workflow",
+        "Interpretations of the Army Connection",
+        "TTSA Research Technology Concepts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_borrowed_credib_1e114f",
+      "title": "Why TTSA's Former Officials Changed the UFO Debate",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "TTSA Leadership Institutional Credentials",
+        "TTSA Credibility vs. Evidence Limits",
+        "TTSA Public Impact Progression"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_business_model_7387c4",
+      "title": "Could TTSA Sell Stories and Test Claims Fairly?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "TTSA Research Funding Model",
+        "TTSA Public vs. Legal Disclosures",
+        "TTSA Organizational Role Conflict"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_mainstream_medi_b3e79a",
+      "title": "How TTSA Pulled UFOs Into Mainstream News",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "TTSA Media Strategy Evolution",
+        "UAP Interpretations and Framing",
+        "TTSA Narrative Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_to_the_stars_academy_f69da8_ttsa_navy_reporting_90c0d8",
+      "title": "Did TTSA Change How Navy Pilots Reported UAP?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Navy UAP Reporting",
+        "TTSA Influence vs. Navy Authorship",
+        "Factors Driving Navy Reporting Reform"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129",
+      "title": "How Tom De Longe Changed the UFO Debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "De Longe Advocacy and TTSA Evolution",
+        "TTSA Network Credential Roles",
+        "UAP Interpretation vs. Reality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_delonge_celebrity_ac_0b4ff1",
+      "title": "How De Longe Built a Credible UFO Network",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "De Longe's Strategy for Institutional Credibility",
+        "To The Stars Academy Advisory Expertise",
+        "De Longe's Influence: Strengths vs Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_mellon_security_refr_cb25a3",
+      "title": "How UFOs Became a National Security Issue",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mellon's Strategy for UAP Oversight",
+        "Mellon's Framework for Unidentified Objects",
+        "Benefits of Security Based Framing"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_navy_videos_media_ca_071253",
+      "title": "How Three Navy Videos Changed the UFO Debate",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "hex_cluster"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "2017 Navy Video Disclosure Time line",
+        "Evidence Limits of Navy Footage",
+        "TTSA Packaging Strategy Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_pentagon_video_authe_5045b7",
+      "title": "Authentic Footage Is Not Proof of Aliens",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Pentagon Official Video Confirmations",
+        "Authenticity vs Interpretation Gap",
+        "Limitations of Infrared Footage"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_podesta_emails_delon_b6dcb5",
+      "title": "What De Longe's Leaked Emails Actually Prove",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "De Longe's Networking with John Podesta",
+        "Evidence Limits of Podesta Emails",
+        "De Longe's Private Claims to Podesta"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.429,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129_ttsa_entertainment_s_cf6433",
+      "title": "Why Entertainment Became Part of UFO Disclosure",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "venn",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "TTSA Corporate Structure Pillars",
+        "TTSA Strategy Credibility Risks",
+        "Sekret Machines Storytelling Model"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5",
+      "title": "How UFO Entertainment Creates a Sense of Proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Narrative Construction of UFO Mysteries",
+        "Evidence vs. Entertainment Elements",
+        "UFO Documentary Production Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_alien_autopsy_editin_6f335f",
+      "title": "How Alien Autopsy Turned Doubt Into Television",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Editorial Tactics in Alien Autopsy",
+        "Interpretations of the 2006 Confession",
+        "Evidence Against the Autopsy Film"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_celebrity_ufo_author_fc7ced",
+      "title": "Does Fame Make a UFO Story More Credible?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanisms of Celebrity Credibility",
+        "Testimony vs. Empirical Evidence",
+        "UAP Investigation Data Sources"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_music_credibilit_080b5b",
+      "title": "Can a Soundtrack Make a UFO Seem Real?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Audio Framing of UFO Footage",
+        "Music vs. Evidence Reliability",
+        "UFO Documentary Persuasion Signals"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_mystery_business_439a67",
+      "title": "Why UFO Television Needs the Mystery to Continue",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Revenue Generation from Unresolved UFO Narratives",
+        "Scientific vs. Commercial UFO Investigation Goals",
+        "Transparency Practices for UFO Documentaries"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_reconstruction_d_877967",
+      "title": "Did the Reconstruction Add More Than the Witness?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The UFO Reconstruction Feedback Loop",
+        "Vague Testimony vs. Visual Reconstruction",
+        "Responsible Reconstruction Best Practices"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_commercial_story_ec27d5_ufo_suspense_editing_09012c",
+      "title": "When UFO Editing Starts to Feel Like Proof",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UFO Documentary Narrative Key Stages",
+        "Documentary vs Scientific Reporting",
+        "Techniques for Cumulative Reinforcement"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb",
+      "title": "Why 'Unidentified' Does Not Mean 'Alien'",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "venn",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "process"
+      ],
+      "titles": [
+        "UAP Classification Categories",
+        "AARO Resolution Trends vs. Unresolved Data",
+        "Requirements for Extraterrestrial Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_camera_artefacts_ufo_7af595",
+      "title": "When the Camera Creates the UFO Mystery",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Imaging System Transformation Stages",
+        "UAP Visual Artefact Interpretations",
+        "NASA and AARO Data Standards"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_missing_distance_fal_eea6b1",
+      "title": "Why UFO Videos Can Show Impossible Speed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reconstructing UAP Motion Geometry",
+        "Angular Motion vs. True Speed",
+        "Required Data for Motion Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_official_ufo_case_da_596dbf",
+      "title": "What Happens When UFO Cases Get Solved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "hub"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "AARO UAP Case Resolution Workflow",
+        "Resolved vs. Archived Case Status",
+        "Common Conventional UAP Explanations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_pilot_ufo_misidentif_329f24",
+      "title": "Why Expert Witnesses Can Still Misread UFOs",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FAA Visual Illusion Hazards",
+        "Pilot Expertise vs. Perception Limits",
+        "NASA UAP Data Integration Standards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_puerto_rico_motion_p_faa025",
+      "title": "What Made the Puerto Rico UFO Look So Fast",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Puerto Rico Case Reconstruction",
+        "Visual Interpretation vs. Geometric Reality",
+        "Factors Influencing UAP Perception"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_not_alien_spacec_088aeb_unresolved_not_alien_1717d0",
+      "title": "Why Unexplained Still Does Not Mean Alien",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Data Identification Process",
+        "Unresolved vs. Extraterrestrial Claims",
+        "Factors Blocking UAP Identification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337",
+      "title": "Why UFO Witnesses Misjudge Size and Speed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Triangulation Methodology for UAP Reconstruction",
+        "Visual Perception vs Physical Reality",
+        "AARO and NASA Data Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_aircraft_motion_para_2399b1",
+      "title": "When the Observer Creates the Apparent Speed",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Analyzing Motion Parallax in UAP Sightings",
+        "Visual Cues in Telephoto Footage",
+        "Data Requirements for UAP Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6",
+      "title": "Why a Still Light Can Seem to Move",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mechanism of Autokinetic Illusion",
+        "Autokinesis vs. Verified Motion",
+        "FAA Pilot Safety Protocols"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969",
+      "title": "Did Go Fast Really Show Extraordinary Speed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Go Fast Case Resolution Process",
+        "Visual Perception vs. Physical Reality",
+        "Factors Influencing Sensor Footage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_night_ufo_depth_illu_bd9354",
+      "title": "Why UFO Lights Become Harder to Judge at Night",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Visual Perception Breakdown at Night",
+        "UAP Observation Interpretation Factors",
+        "Nighttime Visual Illusion Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_single_viewpoint_ufo_7e8387",
+      "title": "Why One UFO Viewpoint Is Rarely Enough",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Geometric Constraints in UAP Observations",
+        "Single vs. Multiple Viewpoint Data",
+        "UAP Depth Perception Limitations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_ufo_size_speed_misju_944337_ufo_size_range_error_d54790",
+      "title": "Why UFO Size Estimates Can Be Wildly Wrong",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Calculating Physical Size from Sightings",
+        "Reliable vs. Inferred Observations",
+        "Factors Defeating Size Cues"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737",
+      "title": "What Information Makes a UFO Report Testable?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Forensic Image Management Standards",
+        "AARO UAP Case Interpretations",
+        "UAP Investigation Conclusion Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_independent_ufo_witn_60026e",
+      "title": "When Two UFO Witnesses Are Truly Independent",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NASA UAP Data Collection Workflow",
+        "Independent Agreement vs. Shared Memory",
+        "UAP Evidence: Proven vs. Unproven"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_angular_measurem_7d0905",
+      "title": "How Sky Angles Make UFO Claims Testable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "UAP Angular Observation Workflow",
+        "Angular vs Physical Measurements",
+        "Common Perceptual Pitfalls in UAP Reports"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_exact_time_place_1e58ab",
+      "title": "Why UFO Reports Need Exact Time and Place",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Recovering Missing Sighting Data",
+        "Data Integrity in UFO Reporting",
+        "Geometry for Sky Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_flight_record_li_358d80",
+      "title": "Can Flight Trackers Really Rule Out Aircraft?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Systematic UFO Flight Data Comparison",
+        "Public Tracking vs. Aviation Reality",
+        "Aviation Data Sources for Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_original_file_me_d886ae",
+      "title": "Why the Original UFO File Matters Most",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Chain of Custody for UFO Evidence",
+        "Original Files vs. Viral Copies",
+        "Metadata Indicators in UFO Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufos_and_celebrities_846269_useful_ufo_report_da_b4d737_ufo_weather_wind_che_5a004f",
+      "title": "What Weather Data Can Reveal About a UFO",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Reconstructing Atmospheric Conditions for UAP",
+        "Weather Effects on Aerial Objects",
+        "Aviation Weather Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

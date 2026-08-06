@@ -1,0 +1,919 @@
+---
+level: 3
+basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6
+parent_basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337
+child_basenames: []
+sibling_basenames:
+- ufos_and_celebrities_846269_ufo_size_speed_misju_944337_aircraft_motion_para_2399b1
+- ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969
+- ufos_and_celebrities_846269_ufo_size_speed_misju_944337_night_ufo_depth_illu_bd9354
+- ufos_and_celebrities_846269_ufo_size_speed_misju_944337_single_viewpoint_ufo_7e8387
+- ufos_and_celebrities_846269_ufo_size_speed_misju_944337_ufo_size_range_error_d54790
+tags:
+- ufos-and-celebrities
+- size-and-speed
+- autokinesis
+keywords:
+- ufos-and-celebrities
+- size-and-speed
+- autokinesis
+affiliate_category: ufos-and-celebrities
+show_ads: true
+description: The autokinetic illusion can make a fixed light seem to wander or dart when no stable visual reference is present.
+hero_summary: The autokinetic illusion can make a fixed light seem to wander or dart when no stable visual reference is present.
+layout: default
+permalink: /autokinesis/
+sidebar_expanded_urls:
+- /ufos-and-celebrities/
+- /size-and-speed/
+nav_short_title: Autokinesis
+title: Why a Still Light Can Seem to Move
+title_full: Why a Still Light Can Seem to Move | Size and Speed
+display_title_short: Autokinesis
+display_title: Autokinesis
+heading_title: Why a Still Light Can Seem to Move
+page_heading_title: Why a Still Light Can Seem to Move
+source_count: 34
+infographic_count: 3
+site_visual_identity: signal-cobalt
+site_visual_identity_confidence: high
+site_visual_motif: constellation
+site_typography_tone: editorial
+planned_sections:
+- What triggers the autokinetic illusion
+- Why tiny eye movements matter
+- How pilots reduce misinterpretation
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: single_mechanism
+search_intent: informational
+content_role: decision_guide
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  share_page: Share
+  copy_link: Copy link
+  download_social_image: Download image
+  cite_page: Cite page
+  print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
+  topics: Topics
+  explore_another_branch: Explore another branch
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-08-06 15:57:47'
+parent_title: Why UFO Witnesses Misjudge Size and Speed | Celebrity UFO Files
+parent_permalink: /size-and-speed/
+parent_nav_short_title: Size and Speed
+parent_heading_title: Why UFO Witnesses Misjudge Size and Speed
+ancestor_links:
+- basename: ufos_and_celebrities_846269
+  title: Celebrity UFO Files
+  permalink: /ufos-and-celebrities/
+  short_title: Celebrity UFO Files
+- basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337
+  title: Size and Speed | When Famous UFO Stories Meet the Evidence
+  permalink: /size-and-speed/
+  short_title: Size and Speed
+  heading_title: Why UFO Witnesses Misjudge Size and Speed
+breadcrumb_links:
+- basename: ufos_and_celebrities_846269
+  title: Celebrity UFO Files
+  permalink: /ufos-and-celebrities/
+  short_title: Celebrity UFO Files
+- basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337
+  title: Size and Speed | When Famous UFO Stories Meet the Evidence
+  permalink: /size-and-speed/
+  short_title: Size and Speed
+  heading_title: Why UFO Witnesses Misjudge Size and Speed
+sibling_links:
+- basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969
+  title: Go Fast Case | Size and Speed
+  permalink: /go-fast-case/
+  short_title: Go Fast Case
+  heading_title: Did Go Fast Really Show Extraordinary Speed?
+- basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337_aircraft_motion_para_2399b1
+  title: Motion Parallax | Size and Speed
+  permalink: /motion-parallax-a0c05a/
+  short_title: Motion Parallax
+  heading_title: When the Observer Creates the Apparent Speed
+- basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337_night_ufo_depth_illu_bd9354
+  title: Night Illusions | Size and Speed
+  permalink: /night-illusions-5cf9ed/
+  short_title: Night Illusions
+  heading_title: Why UFO Lights Become Harder to Judge at Night
+- basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337_single_viewpoint_ufo_7e8387
+  title: One Viewpoint | Size and Speed
+  permalink: /one-viewpoint/
+  short_title: One Viewpoint
+  heading_title: Why One UFO Viewpoint Is Rarely Enough
+- basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337_ufo_size_range_error_d54790
+  title: Size Estimates | Size and Speed
+  permalink: /size-estimates/
+  short_title: Size Estimates
+  heading_title: Why UFO Size Estimates Can Be Wildly Wrong
+up_link:
+  basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337
+  title: Size and Speed | When Famous UFO Stories Meet the Evidence
+  permalink: /size-and-speed/
+  short_title: Size and Speed
+  heading_title: Why UFO Witnesses Misjudge Size and Speed
+has_inline_related_reports_panel: true
+next_link:
+  basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337_gofast_speed_reconst_276969
+  title: Go Fast Case | Size and Speed
+  permalink: /go-fast-case/
+  short_title: Go Fast Case
+  heading_title: Did Go Fast Really Show Extraordinary Speed?
+header:
+  og_image: /assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-1-social.jpg
+  preview_image: /assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-1.webp
+  preview_image_width: 3840
+  preview_image_height: 2160
+share_hook: The autokinetic illusion can make a fixed light seem to wander or dart when no stable visual reference is present.
+image: /assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Yes. Under the right conditions, a completely stationary light can appear to drift, dart, wobble or trace small irregular paths across the sky even though it is not moving at all. This well-documented visual phenomenon is known as the **autokinetic illusion** (or **autokinesis**). It occurs most readily when an isolated point of light is viewed against a featureless dark background with no reliable visual references, such as a star, distant aircraft light or bright planet seen at night. The effect is particularly relevant when assessing UFO reports because it can create a convincing impression of erratic motion without any actual movement by the light itself. Aviation authorities explicitly train pilots to recognise this illusion, as misinterpreting it has contributed to dangerous control inputs during night flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap8_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span><span class="citation-popover-snippet">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span></span></span>
+
+
+
+<figure class="article-media-figure article-media-figure-illustration"><img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-1-dark.svg" | relative_url }}" alt="Autokinesis illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-1-light.svg" | relative_url }}" width="1920" height="1080" loading="lazy" decoding="async" fetchpriority="low"><figcaption class="article-media-caption"><span class="article-media-caption-label">Explanatory illustration 1</span></figcaption></figure>
+
+
+
+<!-- HIERARCHY_NAV_START -->
+<aside class="related-reports" aria-label="Related pages">
+<h2>Follow this branch</h2>
+<div class="related-reports-grid">
+<section class="related-reports-section related-reports-section-closest">
+<h3>Closest pages</h3>
+<ul>
+<li><a href="{{ '/size-and-speed/' | relative_url }}"><span class="article-branch-link-short">Size and Speed</span><span class="article-branch-link-heading">Why UFO Witnesses Misjudge Size and Speed</span></a></li>
+<li><a href="{{ '/ufos-and-celebrities/' | relative_url }}"><span class="article-branch-link-short">UFOs And Celebrities</span><span class="article-branch-link-heading">When Famous UFO Stories Meet the Evidence</span></a></li>
+<li><a href="{{ '/false-acceleration/' | relative_url }}"><span class="article-branch-link-short">False Acceleration</span><span class="article-branch-link-heading">When Ordinary Aircraft Appear to Make Impossible Moves</span></a></li>
+<li><a href="{{ '/media-provenance/' | relative_url }}"><span class="article-branch-link-short">Media Provenance</span><span class="article-branch-link-heading">Has the UFO Footage Been Changed?</span></a></li>
+<li><a href="{{ '/no-triangulation/' | relative_url }}"><span class="article-branch-link-short">No Triangulation</span><span class="article-branch-link-heading">Why Two Witnesses Still Could Not Measure the UFO</span></a></li>
+</ul>
+</section>
+</div>
+</aside>
+<!-- HIERARCHY_NAV_END -->
+
+## What triggers the autokinetic illusion?
+
+The autokinetic illusion is most likely when several conditions occur together:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **A single bright point of light** is visible.
+* **The surrounding sky is dark or featureless**, providing no horizon or nearby objects.
+* **The observer stares at the light for several seconds.**
+* **There are no stable reference points** against which the brain can judge whether the light has moved.
+
+</div>
+
+Under these circumstances, the visual system struggles to distinguish genuine object motion from tiny changes in the image falling on the retina. Instead of interpreting those changes as originating from the observer's own visual system, the brain may attribute them to the external object.
+
+The resulting apparent movement is usually irregular rather than smooth. Witnesses commonly describe the light as drifting, zigzagging, making sudden jumps, circling or "darting" unpredictably. Different observers may even perceive different directions of movement while looking at the same stationary light because the illusion arises within each observer's visual processing rather than from the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/17470216308416334" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals The Origin of the Autokinetic Effect</span><span class="citation-popover-snippet">Sage JournalsThe Origin of the Autokinetic Effect - R. L. Gregory, O. L. Zangwill, 1963...</span></span></span>
+
+Within the broader question of why distance and speed are difficult to judge, this illusion is especially important because an apparently moving light may also appear to accelerate dramatically despite remaining fixed in space.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zZOhH07h4Iw" title="Aviation visual illusions" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 10:14">10:14</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zZOhH07h4Iw" target="_blank" rel="noopener noreferrer">Aviation visual illusions</a></p><p class="youtube-embed-meta">Channel: gabrielrossino &middot; Views: 43.0K &middot; Uploaded: October 2009 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zZOhH07h4Iw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zZOhH07h4Iw">Open on YouTube</a></p></div></div></div>
+
+## Why tiny eye movements matter
+
+A common misconception is that the eyes remain perfectly still when fixating on an object. In reality, they never do.
+
+Even during steady fixation, the eyes continuously make tiny involuntary movements known as **fixational eye movements**, including microscopic drifts, tremors and microsaccades. These movements are essential because they prevent the retinal image from fading and help maintain visual perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/nrn1348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The role of fixational eye movements in visual perception &#124; Nature Reviews Neuroscience...</span></span></span>
+
+Normally, the brain distinguishes these miniature eye movements from movement in the outside world because surrounding objects provide a stable visual framework. A horizon, buildings or trees all remain fixed relative to one another, allowing the brain to discount the eye's own motion.
+
+When the only visible object is an isolated light, that reference framework largely disappears. The visual system has far less information with which to separate eye motion from object motion. As a result, some of the normal fixational movements may be perceived as though the light itself has shifted position. This does not mean that eye movements alone completely explain every instance of autokinesis—research has shown that muscular, perceptual and central neural mechanisms all contribute—but involuntary fixation movements form an important part of the overall explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/17470216308416334" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals The Origin of the Autokinetic Effect</span><span class="citation-popover-snippet">Sage JournalsThe Origin of the Autokinetic Effect - R. L. Gregory, O. L. Zangwill, 1963...</span></span></span>
+
+
+
+<figure class="article-media-figure article-media-figure-illustration"><img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-2-dark.svg" | relative_url }}" alt="Autokinesis illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-2-light.svg" | relative_url }}" width="1920" height="1080" loading="lazy" decoding="async" fetchpriority="low"><figcaption class="article-media-caption"><span class="article-media-caption-label">Explanatory illustration 2</span></figcaption></figure>
+
+## Why pilots are taught to recognise it
+
+Autokinesis is not simply an academic curiosity. It has practical safety implications in aviation.
+
+The US Federal Aviation Administration (FAA) includes autokinesis among recognised visual illusions encountered during night flying. Its Aeronautical Information Manual warns that, after staring at a stationary light in darkness for several seconds, pilots may perceive the light as moving and may unconsciously manoeuvre the aircraft in an attempt to align with it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap8_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span><span class="citation-popover-snippet">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span></span></span>
+
+Pilot training therefore emphasises several ways to reduce misinterpretation:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* Avoid prolonged fixation on a single isolated light.
+* Scan the sky rather than staring continuously.
+* Cross-check visual impressions against flight instruments.
+* Use the natural horizon or other reliable visual references whenever available.
+
+</div>
+
+These techniques reduce reliance on a single ambiguous visual cue and help distinguish genuine object motion from perceptual illusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap8_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span><span class="citation-popover-snippet">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span></span></span>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CTb4Rs9ZcsM" title="Sherif&#x27;s Autokinetic Effect Study - Informational Social Influence - AQA A-Level Psychology" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CTb4Rs9ZcsM" target="_blank" rel="noopener noreferrer">Sherif&#x27;s Autokinetic Effect Study - Informational Social Influence - AQA A-Level Psychology</a></p><p class="youtube-embed-meta">Channel: Lemon-Squeezy Education</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CTb4Rs9ZcsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CTb4Rs9ZcsM">Open on YouTube</a></p></div></div></div>
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1-pbW6kc7q0" title="Conformity Research: Sherif&#x27;s Autokinetic Effect Experiment" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1-pbW6kc7q0" target="_blank" rel="noopener noreferrer">Conformity Research: Sherif&#x27;s Autokinetic Effect Experiment</a></p><p class="youtube-embed-meta">Channel: Psyched Videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1-pbW6kc7q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1-pbW6kc7q0">Open on YouTube</a></p></div></div></div>
+
+## Why this matters when evaluating UFO reports
+
+The autokinetic illusion does **not** prove that every reported moving light is stationary, nor does it explain sightings observed simultaneously by radar, multiple cameras or multiple independent visual references.
+
+However, it provides a well-established explanation for one specific class of reports: an isolated point of light seen against an otherwise empty night sky that appears to wander, hover while subtly shifting position, or make abrupt small movements despite lacking any independent evidence of motion.
+
+This is particularly relevant when witnesses describe a light that seems to "dance" or "dart around" yet leaves no measurable track relative to the stars or horizon. Without stable reference points, observers can sincerely report extraordinary motion that originates in normal visual processing rather than in the object itself. Recognising this possibility helps investigators distinguish between apparent motion caused by perception and motion that can be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap8_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span><span class="citation-popover-snippet">Federal Aviation Administration Chapter 8. Medical Facts for Pilots</span></span></span>
+
+
+
+<figure class="article-media-figure article-media-figure-illustration"><img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-3-dark.svg" | relative_url }}" alt="Autokinesis illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_size_speed_misju_944337_autokinetic_ufo_ligh_dba9e6-Illustration-3-light.svg" | relative_url }}" width="1920" height="1080" loading="lazy" decoding="async" fetchpriority="low"><figcaption class="article-media-caption"><span class="article-media-caption-label">Explanatory illustration 3</span></figcaption></figure>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why a Still Light Can Seem to Move. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+        
+<p class="fr-book-desc">NEW YORK TIMES BESTSELLER • Our minds don’t work the way we think they do. Two renowned psychologists explain how and why our intuitions...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eye+and+Brain+by+Richard+L.+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eye and Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PahTrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eye and Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eye+and+Brain+by+Richard+L.+Gregory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eye and Brain">Eye and Brain</a>
+</h4>
+<p class="fr-book-author">By Richard L. Gregory</p>
+        
+<p class="fr-book-desc">Since the publication of the first edition in 1966, Eye and Brain has established itself worldwide as an essential introduction to the ba...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eye+and+Brain+by+Richard+L.+Gregory&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Are we on the brink of a new Dark Age of irrationality and superstition? In this book, the writer shows how scientific thinking is necess...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
+        
+<p class="fr-book-desc">Why is there more chance we&#x27;ll believe something if it&#x27;s in a bold type face? Why are judges more likely to deny parole before lunch? Why...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eye+and+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eye and Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<p class="fr-ebay-query-context">Selected from<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer">UFO t shirt</a> on<span data-ebay-domain-label>eBay.co.uk</span>.</p>
+<div class="fr-books-grid">
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="1">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/256030170887?_skw=ufo+t+shirt&amp;hash=item3b9c965f07%3Ag%3AwukAAOSwpgJng-rq&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263"><img src="{{ '/assets/images/marketplace-covers/bd40f15ba75b30a41185.jpg' | relative_url }}" alt="Listing image for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/256030170887?_skw=ufo+t+shirt&amp;hash=item3b9c965f07%3Ag%3AwukAAOSwpgJng-rq&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 11.99 | Free shipping</span><span>New with tags</span><span>Seller: flamentina-uk-ltd (99.9% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/256030170887?_skw=ufo+t+shirt&amp;hash=item3b9c965f07%3Ag%3AwukAAOSwpgJng-rq&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="1" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="2">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/365211878269?_skw=ufo+t+shirt&amp;hash=item550853037d%3Ag%3AZmoAAOSwgidnJ8HG&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbXg1p4p0I%2B8YIEWRcVDyvwvByvbL9%2FxKQXud1v1n8MmvFwuGIoF4JuIYcTDMwnQKOoB9ib0a48bJZiEQAFfVBNlX1URejj8b4%2F%2Bu89ozQvm%2F8GLlrtBPg2ZPIJBFsV59%2FiBf0TrzldQoY1hA%2FrKd2zzJZb39yzFTywmCJWt6uaNXw59SG3fTYS5dKt2KxASpSCxk1W7k9%2BE%2B31up3GJ5zhc%2FhT8z8zR94JIgxSLG7BmZiUKopqwOXcpzgxsHdL6F1D%2FkBQqLmrlEjFOIMuQ3bN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/365211878269?_skw=ufo+t+shirt&amp;hash=item550853037d%3Ag%3AZmoAAOSwgidnJ8HG&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbXg1p4p0I%2B8YIEWRcVDyvwvByvbL9%2FxKQXud1v1n8MmvFwuGIoF4JuIYcTDMwnQKOoB9ib0a48bJZiEQAFfVBNlX1URejj8b4%2F%2Bu89ozQvm%2F8GLlrtBPg2ZPIJBFsV59%2FiBf0TrzldQoY1hA%2FrKd2zzJZb39yzFTywmCJWt6uaNXw59SG3fTYS5dKt2KxASpSCxk1W7k9%2BE%2B31up3GJ5zhc%2FhT8z8zR94JIgxSLG7BmZiUKopqwOXcpzgxsHdL6F1D%2FkBQqLmrlEjFOIMuQ3bN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 12.99 | Free shipping</span><span>New without tags</span><span>Seller: t-shirt-junky (99.8% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/365211878269?_skw=ufo+t+shirt&amp;hash=item550853037d%3Ag%3AZmoAAOSwgidnJ8HG&amp;amdata=enc%3AAQALAAAA4ACCtXRWQnOEpyOqnQQ8KGbXg1p4p0I%2B8YIEWRcVDyvwvByvbL9%2FxKQXud1v1n8MmvFwuGIoF4JuIYcTDMwnQKOoB9ib0a48bJZiEQAFfVBNlX1URejj8b4%2F%2Bu89ozQvm%2F8GLlrtBPg2ZPIJBFsV59%2FiBf0TrzldQoY1hA%2FrKd2zzJZb39yzFTywmCJWt6uaNXw59SG3fTYS5dKt2KxASpSCxk1W7k9%2BE%2B31up3GJ5zhc%2FhT8z8zR94JIgxSLG7BmZiUKopqwOXcpzgxsHdL6F1D%2FkBQqLmrlEjFOIMuQ3bN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="2" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="3">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/391926395622?_skw=ufo+t+shirt&amp;hash=item5b40a232e6%3Ag%3AkUsAAOSwFfdlPqVM&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/391926395622?_skw=ufo+t+shirt&amp;hash=item5b40a232e6%3Ag%3AkUsAAOSwFfdlPqVM&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 12.99 | Free shipping</span><span>New with tags</span><span>Seller: realityglitch (99.4% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/391926395622?_skw=ufo+t+shirt&amp;hash=item5b40a232e6%3Ag%3AkUsAAOSwFfdlPqVM&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="3" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card" data-ebay-listing-card data-ebay-card-kind="listing" data-ebay-card-position="4">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/itm/165717502168?_skw=ufo+t+shirt&amp;hash=item26958868d8%3Ag%3ATNIAAOSwK2NnNRPN&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGar85roWSgO%2B%2FcmMXir47Dgb4IPLnVj4UYnOx22lLzPfP%2BhonUVptmB%2BC%2Fry4ZFbptwi3hXKVPD6TeqbSlUNVgvHMZ5QCkcOJRzXfmyP4Dxj%2FmY79WbplVKdSEdp06lgBJc0SSkHPy5oPZUXzGgnIIQ7yusa4N6Q5vP8zEpMPW%2FUYvI3VMwffiFPukWfyRTafblYff5MP2gR%2B%2FWtHcbuP4ND4GDWNBv4WawFKgXgDwKqxySMclCYSatn3b9zA0x%2FghFQ%2F%2BTSPV06eob0ZtDPsu3zdz0qaaWFAcCs2UzdC56yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="View listing on eBay: Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Current eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/itm/165717502168?_skw=ufo+t+shirt&amp;hash=item26958868d8%3Ag%3ATNIAAOSwK2NnNRPN&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGar85roWSgO%2B%2FcmMXir47Dgb4IPLnVj4UYnOx22lLzPfP%2BhonUVptmB%2BC%2Fry4ZFbptwi3hXKVPD6TeqbSlUNVgvHMZ5QCkcOJRzXfmyP4Dxj%2FmY79WbplVKdSEdp06lgBJc0SSkHPy5oPZUXzGgnIIQ7yusa4N6Q5vP8zEpMPW%2FUYvI3VMwffiFPukWfyRTafblYff5MP2gR%2B%2FWtHcbuP4ND4GDWNBv4WawFKgXgDwKqxySMclCYSatn3b9zA0x%2FghFQ%2F%2BTSPV06eob0ZtDPsu3zdz0qaaWFAcCs2UzdC56yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<p class="fr-listing-meta"><span class="fr-listing-price">GBP 16.95 | Free shipping</span><span>New with tags</span><span>Seller: galaxy-tees (99.9% positive)</span><span>Ships from: GB</span></p>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/itm/165717502168?_skw=ufo+t+shirt&amp;hash=item26958868d8%3Ag%3ATNIAAOSwK2NnNRPN&amp;amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGar85roWSgO%2B%2FcmMXir47Dgb4IPLnVj4UYnOx22lLzPfP%2BhonUVptmB%2BC%2Fry4ZFbptwi3hXKVPD6TeqbSlUNVgvHMZ5QCkcOJRzXfmyP4Dxj%2FmY79WbplVKdSEdp06lgBJc0SSkHPy5oPZUXzGgnIIQ7yusa4N6Q5vP8zEpMPW%2FUYvI3VMwffiFPukWfyRTafblYff5MP2gR%2B%2FWtHcbuP4ND4GDWNBv4WawFKgXgDwKqxySMclCYSatn3b9zA0x%2FghFQ%2F%2BTSPV06eob0ZtDPsu3zdz0qaaWFAcCs2UzdC56yA%3D%3D&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-affiliate-merchant="ebay" data-affiliate-placement="listing_card" data-ebay-card-kind="listing" data-ebay-card-position="4" data-ebay-relevance-tier="unspecified" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-fallback-url="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            View listing on eBay
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="autokinesis-why-a-still-light-can-seem-to-move-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-co" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: faa.gov  
+   Title: Federal Aviation Administration Chapter 8. Medical Facts for Pilots  
+   Link:<a href="https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap8_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/Air_traffic/publications/atpubs/aim_html/chap8_section_1.html</a>  
+
+2.<a id="endnote-2"></a>
+   Source: nature.com  
+   Link:<a href="https://www.nature.com/articles/nrn1348" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nrn1348</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of fixational eye movements in visual perception | Nature Reviews Neuroscience...</p></details>
+
+3.<a id="endnote-3"></a>
+   Source: faa.gov  
+   Title: Air Traffic Plans and Publications  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 28, 2026 — AIR TRAFFIC PLANS AND PUBLICATIONS * Image: Print * Manuals * Publications * Orders * GENOT/Notices * Plans * Air Traffic...</p></details>
+   Published: July 28, 2026  
+
+4.<a id="endnote-4"></a>
+   Source: faa.gov  
+   Title: Air Traffic Plans and Publications  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/?_hsmi=83660902" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/?_hsmi=83660902</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 16, 2026 — AIR TRAFFIC PLANS AND PUBLICATIONS * Image: Print * Manuals * Publications * Orders * GENOT/Notices * Plans * Air Traffi...</p></details>
+   Published: March 16, 2026  
+
+5.<a id="endnote-5"></a>
+   Source: faa.gov  
+   Title: Chapter 8. Medical Facts for Pilots  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0801.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0801.html</a>  
+
+6.<a id="endnote-6"></a>
+   Source: nature.com  
+   Link:<a href="https://www.nature.com/articles/nrn3405" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nrn3405</a>  
+
+7.<a id="endnote-7"></a>
+   Source: faa.gov  
+   Link:<a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/chap8_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/chap8_section_1.html</a>  
+
+8.<a id="endnote-8"></a>
+   Source: faa.gov  
+   Link:<a href="https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1960s/1969/196923" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1960s/1969/196923</a>  
+
+9.<a id="endnote-9"></a>
+   Source: faa.gov  
+   Link:<a href="https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1960s/1967/196719" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1960s/1967/196719</a>  
+
+10.<a id="endnote-10"></a>
+   Source: faa.gov  
+   Title: Aerospace Medicine Technical Reports | Federal Aviation Administration  
+   Link:<a href="https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1960s/1966/196639" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1960s/1966/196639</a>  
+
+11.<a id="endnote-11"></a>
+   Source: journals.sagepub.com  
+   Title: Sage Journals The Origin of the Autokinetic Effect  
+   Link:<a href="https://journals.sagepub.com/doi/10.1080/17470216308416334" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/17470216308416334</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Origin of the Autokinetic Effect - R. L. Gregory, O. L. Zangwill, 1963...</p></details>
+
+12.<a id="endnote-12"></a>
+   Source: journals.sagepub.com  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2041669517752716" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2041669517752716</a>  
+
+13.<a id="endnote-13"></a>
+   Source: journals.sagepub.com  
+   Link:<a href="https://journals.sagepub.com/doi/10.2466/pms.1966.22.1.319" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.2466/pms.1966.22.1.319</a>  
+
+### Additional References
+
+14.<a id="endnote-14"></a>
+   Source: af.mil  
+   Link:<a href="https://www.af.mil/News/Article-Display/Article/2209213/black-box-sheds-light-on-night-vision-challenges-for-aircrew-students/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2209213/black-box-sheds-light-on-night-vision-challenges-for-aircrew-students/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 7, 2020 — Work on the unaided NV trainer began a few years ago in response to a request from an aerospace physiology technician and...</p></details>
+   Published: June 7, 2020  
+
+15.<a id="endnote-15"></a>
+   Source: angleofattack.com  
+   Title: Illusions in Flight — AIM 8-1-5 Explained | Angle of Attack  
+   Link:<a href="https://www.angleofattack.com/aim/chapter-8/8-1-5/" target="_blank" rel="noopener noreferrer nofollow">https://www.angleofattack.com/aim/chapter-8/8-1-5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot who does not recognize this illusion will steepen the approach, often quite abruptly. 6. Ground lighting illusions. Lights along a...</p></details>
+
+16.<a id="endnote-16"></a>
+   Source: faasafety.gov  
+   Title: FAA Safety Learning Center Library Contents  
+   Link:<a href="https://www.faasafety.gov/gslac/ALC/libview_printerfriendly.aspx?id=6580" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/ALC/libview_printerfriendly.aspx?id=6580</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FAA SafetyLearning Center Library Contents - FAA - FAASTeam - FAASafety.gov...</p></details>
+
+17.<a id="endnote-17"></a>
+   Source: ufouap.net  
+   Link:<a href="https://www.ufouap.net/en/explainers/autokinesis-stationary-light-illusion" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.net/en/explainers/autokinesis-stationary-light-illusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autokinesis: Why a Stationary Light Seems to Move | Global UFO ArchiveJuly 11, 2026 — Evidence / Updated 2026-07-11 / 7 min read AUTOKINE...</p></details>
+   Published: July 11, 2026  
+
+18.<a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: Conformity Research: Sherif's Autokinetic Effect Experiment  
+   Link:<a href="https://www.youtube.com/watch?v=1-pbW6kc7q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1-pbW6kc7q0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PPGS Lesson 14.2 | Aeromedical: Illusions...</p></details>
+
+19.<a id="endnote-19"></a>
+   Source: faraim.org  
+   Link:<a href="https://faraim.org/faa/aim/chapter-7/section-7-6-14.html" target="_blank" rel="noopener noreferrer nofollow">https://faraim.org/faa/aim/chapter-7/section-7-6-14.html</a>  
+
+20.<a id="endnote-20"></a>
+   Source: faraim.org  
+   Link:<a href="https://www.faraim.org/faa/aim/chapter-8/section-8-1-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faraim.org/faa/aim/chapter-8/section-8-1-5.html</a>  
+
+21.<a id="endnote-21"></a>
+   Source: studylib.net  
+   Link:<a href="https://studylib.net/doc/25850506/instrument-flying-handbook" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/25850506/instrument-flying-handbook</a>  
+
+22.<a id="endnote-22"></a>
+   Source: annualreviews.org  
+   Title: Control and Functions of Fixational Eye Movements | Annual Reviews  
+   Link:<a href="https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035742" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/doi/10.1146/annurev-vision-082114-035742</a>  
+
+23.<a id="endnote-23"></a>
+   Source: frontiersin.org  
+   Title: Frontiers | Fixational eye movements and binocular vision  
+   Link:<a href="https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2014.00052/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2014.00052/full</a>  
