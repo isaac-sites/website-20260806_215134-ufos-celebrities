@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 16:19:39'
+last_modified_at: '2026-08-06 16:19:39'
 parent_title: What Information Makes a UFO Report Testable? | UFOs And Celebrities
 parent_permalink: /useful-data/
 parent_nav_short_title: Useful Data

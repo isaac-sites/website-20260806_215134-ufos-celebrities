@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-john/
 description: Focused pages that expand on John Lennon.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_john_lennon_ufo_sigh_69515a
 parent_title: John Lennon | UFOs And Celebrities

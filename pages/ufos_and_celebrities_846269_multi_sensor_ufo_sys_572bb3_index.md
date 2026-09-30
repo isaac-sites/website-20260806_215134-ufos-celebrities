@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-multi/
 description: Focused pages that expand on Multi Sensor Study.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_multi_sensor_ufo_sys_572bb3
 parent_title: Multi Sensor Study | UFOs And Celebrities

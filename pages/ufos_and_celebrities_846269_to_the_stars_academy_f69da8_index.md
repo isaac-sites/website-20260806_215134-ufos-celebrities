@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-to-the/
 description: Focused pages that expand on To the Stars.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_to_the_stars_academy_f69da8
 parent_title: To the Stars | UFOs And Celebrities
