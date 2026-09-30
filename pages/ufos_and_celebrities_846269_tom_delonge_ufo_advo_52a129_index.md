@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-tom/
 description: Focused pages that expand on Tom De Longe.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_tom_delonge_ufo_advo_52a129
 parent_title: Tom De Longe | UFOs And Celebrities

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 20:28:55'
+last_modified_at: '2026-08-06 20:28:55'
 parent_title: How to Check a Celebrity UFO Story | Celebrity UFO Files
 parent_permalink: /claim-checklist/
 parent_nav_short_title: Claim Checklist

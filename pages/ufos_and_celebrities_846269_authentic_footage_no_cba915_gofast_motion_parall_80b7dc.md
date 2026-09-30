@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 13:38:03'
+last_modified_at: '2026-08-06 13:38:03'
 parent_title: Why Real UFO Footage Can Still Mislead | UFOs And Celebrities
 parent_permalink: /authenticity/
 parent_nav_short_title: Authenticity

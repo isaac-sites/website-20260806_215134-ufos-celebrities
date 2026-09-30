@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-multiple/
 description: Focused pages that expand on Multiple Witnesses.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_multiple_witness_ufo_dbe820
 parent_title: Multiple Witnesses | UFOs And Celebrities

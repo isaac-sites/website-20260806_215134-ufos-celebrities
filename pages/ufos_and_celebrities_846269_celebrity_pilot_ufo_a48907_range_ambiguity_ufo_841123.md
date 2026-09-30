@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 20:58:49'
+last_modified_at: '2026-08-06 20:58:49'
 parent_title: Are Celebrity Pilots Better UFO Witnesses? | Celebrity UFO Files
 parent_permalink: /pilot-witnesses/
 parent_nav_short_title: Pilot Witnesses

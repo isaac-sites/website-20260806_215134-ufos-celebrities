@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-demi/
 description: Focused pages that expand on Demi Lovato.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_demi_lovato_ufo_seri_5f9b82
 parent_title: Demi Lovato | UFOs And Celebrities

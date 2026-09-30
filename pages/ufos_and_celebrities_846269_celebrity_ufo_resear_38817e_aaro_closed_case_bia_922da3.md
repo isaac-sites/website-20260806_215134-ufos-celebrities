@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 18:55:43'
+last_modified_at: '2026-08-06 18:55:43'
 parent_title: Where Celebrity UFO Investigations Go Wrong | UFOs And Celebrities
 parent_permalink: /research-risks/
 parent_nav_short_title: Research Risks
