@@ -4,7 +4,7 @@ title_full: Eyewitness Memory Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufos-and-celebrities-846269-celebrity/
+permalink: /ufos-and-celebrities-846269-celebrity-eyewitness-memory/
 description: Focused pages that expand on Eyewitness Memory.
 date: '2026'
 layout: default
