@@ -4,7 +4,7 @@ title_full: Flare Debate Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufos-and-celebrities-846269-phoenix/
+permalink: /ufos-and-celebrities-846269-flare/
 description: Focused pages that expand on Flare Debate.
 date: '2026'
 layout: default
