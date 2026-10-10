@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-ordinary/
 description: Focused pages that expand on Common Causes.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_ordinary_objects_ufo_6e04b5
 parent_title: Common Causes | UFOs And Celebrities

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 12:09:14'
+last_modified_at: '2026-08-06 12:09:14'
 parent_title: Were the Phoenix Lights One Event or Several? | Celebrity UFO Files
 parent_permalink: /phoenix-lights/
 parent_nav_short_title: Phoenix Lights

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 17:45:38'
+last_modified_at: '2026-08-06 17:45:38'
 parent_title: Can Celebrity Stories Make UFO Reporting Safer? | Celebrity UFO Files
 parent_permalink: /reporting-stigma/
 parent_nav_short_title: Reporting Stigma

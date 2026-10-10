@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-06 13:19:25'
+last_modified_at: '2026-08-06 13:19:25'
 parent_title: What Did To the Stars Academy Actually Achieve? | UFOs And Celebrities
 parent_permalink: /to-the-stars/
 parent_nav_short_title: To the Stars

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-ufo-size/
 description: Focused pages that expand on Size and Speed.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_ufo_size_speed_misju_944337
 parent_title: Size and Speed | UFOs And Celebrities

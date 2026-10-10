@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-useful-ufo/
 description: Focused pages that expand on Useful Data.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_useful_ufo_report_da_b4d737
 parent_title: Useful Data | UFOs And Celebrities

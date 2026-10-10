@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-evaluate/
 description: Focused pages that expand on Claim Checklist.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_evaluate_celebrity_u_632ff0
 parent_title: Claim Checklist | UFOs And Celebrities

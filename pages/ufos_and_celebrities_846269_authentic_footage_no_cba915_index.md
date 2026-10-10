@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-authentic/
 description: Focused pages that expand on Authenticity.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_authentic_footage_no_cba915
 parent_title: Authenticity | UFOs And Celebrities
