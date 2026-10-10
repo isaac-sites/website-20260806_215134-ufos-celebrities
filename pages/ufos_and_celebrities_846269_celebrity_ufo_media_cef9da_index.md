@@ -4,7 +4,7 @@ title_full: Media Amplification Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufos-and-celebrities-846269-celebrity/
+permalink: /ufos-and-celebrities-846269-media/
 description: Focused pages that expand on Media Amplification.
 date: '2026'
 last_modified_at: '2026'
