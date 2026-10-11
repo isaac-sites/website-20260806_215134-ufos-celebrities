@@ -55,7 +55,7 @@ permalink: /fame-vs-evidence/
 sidebar_expanded_urls:
 - /ufos-and-celebrities/
 nav_short_title: Fame vs Evidence
-title: Does Celebrity Status Make a UFO Claim Stronger?
+title: "Does Celebrity Status Make a UFO Claim Stronger? (Celebrity UFO Files)"
 title_full: Does Celebrity Status Make a UFO Claim Stronger? | Celebrity UFO Files
 display_title_short: Fame vs Evidence
 display_title: Fame vs Evidence
