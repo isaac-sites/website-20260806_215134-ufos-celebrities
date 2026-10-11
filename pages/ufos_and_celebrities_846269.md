@@ -480,7 +480,7 @@ That success also demonstrates the risks of celebrity-led investigation. To the 
 
 ## When UFO belief becomes entertainment
 
-[Dan Aykroyd]({{ 'dan-aykroyd/' | relative_url }}) represents the long-term celebrity enthusiast. His public interest in UFOs and paranormal subjects extends well beyond his association with *Ghostbusters*. He has discussed personal sightings, supported civilian UFO organisations and appeared in productions including *Dan Aykroyd Unplugged on UFOs*. Streaming descriptions present the film as an extended discussion of alleged extraterrestrial visitation and reported encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Open source on netflix.com.</span></span></span>
+[Dan Aykroyd]({{ 'dan-aykroyd/' | relative_url }}) represents the long-term celebrity enthusiast. His public interest in UFOs and paranormal subjects extends well beyond his association with *Ghostbusters*. He has discussed personal sightings, supported civilian UFO organisations and appeared in productions including *Dan Aykroyd Unplugged on UFOs*. Streaming descriptions present the film as an extended discussion of alleged extraterrestrial visitation and reported encounters.<span class="citation-link-wrap">[Netflix]<span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Open source on netflix.com.</span></span></span>
 
 Aykroyd’s openness has helped make UFO interest appear less socially marginal. Yet his documentaries typically mix personal testimony, speculative interpretations and disputed cases. Viewers must therefore separate the fact that a programme exists—and that its presenter sincerely endorses its subject—from the strength of the evidence shown within it.
 
@@ -997,7 +997,7 @@ The most balanced reading is neither automatic belief nor reflexive mockery. Cel
 
 6.<a id="endnote-6"></a>
    Source: netflix.com  
-   Link:<a href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70049805</a>  
+   Link:https://www.netflix.com/title/70049805  
 
 7.<a id="endnote-7"></a>
    Source: peacocktv.com  
@@ -1132,7 +1132,7 @@ The most balanced reading is neither automatic belief nor reflexive mockery. Cel
 
 35.<a id="endnote-35"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/dan-aykroyd/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/dan-aykroyd/</a>  
+   Link:https://nhinewsnetwork.com/biographies/dan-aykroyd/  
 
 36.<a id="endnote-36"></a>
    Source: decur.org  
@@ -1181,7 +1181,7 @@ The most balanced reading is neither automatic belief nor reflexive mockery. Cel
 
 45.<a id="endnote-45"></a>
    Source: aol.com  
-   Link:<a href="https://www.aol.com/articles/demi-lovato-confirms-she-stoned-205138223.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/demi-lovato-confirms-she-stoned-205138223.html</a>  
+   Link:https://www.aol.com/articles/demi-lovato-confirms-she-stoned-205138223.html  
 
 46.<a id="endnote-46"></a>
    Source: prnewswire.com  

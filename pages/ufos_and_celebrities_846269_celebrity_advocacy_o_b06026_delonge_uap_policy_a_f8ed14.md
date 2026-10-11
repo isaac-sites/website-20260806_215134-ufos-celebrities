@@ -315,7 +315,7 @@ Tom DeLonge did not persuade the US government to treat unidentified aerial phen
 
 ## Building a media-facing team of former officials
 
-The defining feature of DeLonge's approach was not simply that he spoke publicly about UFOs. Many entertainers had done that for decades with little institutional effect. His innovation was to establish **[To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) of Arts & Science (TTSA)** in 2017 as a hybrid organisation combining entertainment, research and former government expertise. The founding team included former Deputy Assistant Secretary of Defense for Intelligence Christopher Mellon, former intelligence officer Jim Semivan, physicist Hal Puthoff and Luis Elizondo, who said he had overseen the Pentagon's Advanced Aerospace Threat Identification Program (AATIP).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+The defining feature of DeLonge's approach was not simply that he spoke publicly about UFOs. Many entertainers had done that for decades with little institutional effect. His innovation was to establish **[To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) of Arts & Science (TTSA)** in 2017 as a hybrid organisation combining entertainment, research and former government expertise. The founding team included former Deputy Assistant Secretary of Defense for Intelligence Christopher Mellon, former intelligence officer Jim Semivan, physicist Hal Puthoff and Luis Elizondo, who said he had overseen the Pentagon's Advanced Aerospace Threat Identification Program (AATIP).<span class="citation-link-wrap">[Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 
 
@@ -841,7 +841,7 @@ For that reason, DeLonge's contribution is best understood as a mechanism of age
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 4.<a id="endnote-4"></a>
    Source: axios.com  

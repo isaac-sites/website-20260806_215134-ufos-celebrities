@@ -1025,7 +1025,7 @@ Aykroyd’s lasting role in the history of celebrities and UFOs lies in that ten
 
 8.<a id="endnote-8"></a>
    Source: netflix.com  
-   Link:<a href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70049805</a>  
+   Link:https://www.netflix.com/title/70049805  
 
 9.<a id="endnote-9"></a>
    Source: paranoiamagazine.com  
@@ -1259,7 +1259,7 @@ Aykroyd’s lasting role in the history of celebrities and UFOs lies in that ten
 
 57.<a id="endnote-57"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/dan-aykroyd/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/dan-aykroyd/</a>  
+   Link:https://nhinewsnetwork.com/biographies/dan-aykroyd/  
 
 58.<a id="endnote-58"></a>
    Source: openlibrary.org  
