@@ -862,7 +862,7 @@ Yet the fundamental distinction remains unchanged: celebrity advocacy may attrac
 
 9.<a id="endnote-9"></a>
    Source: nhinewsnetwork.com  
-   Link:<a href="https://nhinewsnetwork.com/biographies/dan-aykroyd/" target="_blank" rel="noopener noreferrer nofollow">https://nhinewsnetwork.com/biographies/dan-aykroyd/</a>  
+   Link:https://nhinewsnetwork.com/biographies/dan-aykroyd/  
 
 ### Additional References
 

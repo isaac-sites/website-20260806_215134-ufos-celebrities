@@ -914,7 +914,7 @@ Viewed as evidence for extraterrestrial visitors, however, the documentary is le
 18.<a id="endnote-18"></a>
    Source: netflix.com  
    Title: Watch Dan Aykroyd Unplugged on UFOs | Netflix  
-   Link:<a href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70049805</a>  
+   Link:https://www.netflix.com/title/70049805  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Dan Aykroyd Unplugged on UFOs | Netflix...</p></details>
 
 19.<a id="endnote-19"></a>

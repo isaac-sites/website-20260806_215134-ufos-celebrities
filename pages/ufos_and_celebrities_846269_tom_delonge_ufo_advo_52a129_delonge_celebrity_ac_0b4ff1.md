@@ -362,7 +362,7 @@ Among the most prominent recruits were:
 
 </div>
 
-Individually, these figures already possessed professional reputations. Collectively, they transformed TTSA from a celebrity project into a network that journalists and policymakers considered worth examining, even while remaining sceptical of some of its broader claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+Individually, these figures already possessed professional reputations. Collectively, they transformed TTSA from a celebrity project into a network that journalists and policymakers considered worth examining, even while remaining sceptical of some of its broader claims.<span class="citation-link-wrap">[wikipedia.org]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 Importantly, DeLonge did not recruit people simply to endorse his views. Each participant brought different forms of credibility:
 
@@ -393,7 +393,7 @@ Celebrity provided several practical benefits that many former officials lacked:
 
 **Entertainment infrastructure.** DeLonge understood book publishing, television production, music promotion and audience development. Those skills allowed TTSA to package complicated claims into formats accessible to mainstream audiences.
 
-**Fundraising.** TTSA used a Regulation A public share offering to raise capital from supporters, explicitly presenting itself as a company spanning entertainment, science and aerospace. While its filings acknowledged substantial financial risks and speculative ambitions, the structure gave the organisation resources beyond those available to many volunteer advocacy groups.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+**Fundraising.** TTSA used a Regulation A public share offering to raise capital from supporters, explicitly presenting itself as a company spanning entertainment, science and aerospace. While its filings acknowledged substantial financial risks and speculative ambitions, the structure gave the organisation resources beyond those available to many volunteer advocacy groups.<span class="citation-link-wrap">[Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 **Cross-community networking.** Perhaps most importantly, DeLonge could introduce retired officials to journalists, producers, publishers and entertainment executives who were outside traditional government circles.
 
@@ -434,7 +434,7 @@ DeLonge's strategy offered clear advantages but also created persistent credibil
 
 Supporters argue that few non-government figures could have assembled such a diverse collection of former officials. His celebrity reduced reputational risk for insiders who wanted to discuss UAP publicly while giving reporters identifiable sources with substantial professional backgrounds.
 
-Critics, however, point out that celebrity does not validate extraordinary claims. TTSA combined carefully documented military material with more speculative discussions about advanced technology, consciousness and non-human intelligence. This mixture sometimes made it difficult for observers to distinguish between evidence supported by official documentation and ideas that remained largely conjectural. Financial questions surrounding TTSA's [business model]({{ 'business-model/' | relative_url }}) also attracted scrutiny alongside its advocacy work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+Critics, however, point out that celebrity does not validate extraordinary claims. TTSA combined carefully documented military material with more speculative discussions about advanced technology, consciousness and non-human intelligence. This mixture sometimes made it difficult for observers to distinguish between evidence supported by official documentation and ideas that remained largely conjectural. Financial questions surrounding TTSA's [business model]({{ 'business-model/' | relative_url }}) also attracted scrutiny alongside its advocacy work.<span class="citation-link-wrap">[Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 As a result, DeLonge's influence has generally been assessed less in terms of proving UFO claims than in reshaping who could publicly discuss them.
 
@@ -875,7 +875,7 @@ This combination shifted discussion of UAP away from exclusively fringe communit
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 4.<a id="endnote-4"></a>
    Source: decur.org  

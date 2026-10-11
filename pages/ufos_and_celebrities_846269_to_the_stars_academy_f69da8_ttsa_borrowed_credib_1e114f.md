@@ -307,7 +307,7 @@ image: /assets/images/ufos_and_celebrities_846269_to_the_stars_academy_f69da8_tt
 
 ## Introduction
 
-[To the Stars Academy]({{ 'to-the-stars/' | relative_url }}) of Arts & Science (TTSA) attracted unusual attention because it paired a globally recognised celebrity, Tom DeLonge, with former senior figures from the US defence, intelligence and aerospace communities. That combination gave the organisation a level of public credibility rarely seen in modern UFO advocacy. Instead of asking audiences to trust anonymous insiders or speculative researchers, TTSA presented individuals whose careers had included work at the CIA, the Pentagon and Lockheed Martin's Skunk Works. For many journalists and members of the public, those professional backgrounds made the organisation appear unusually authoritative, even though former government service did not, by itself, verify TTSA's claims about unidentified aerial phenomena (UAP) or advanced technology. The distinction between personal expertise and evidential proof became one of the defining tensions in TTSA's public impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+[To the Stars Academy]({{ 'to-the-stars/' | relative_url }}) of Arts & Science (TTSA) attracted unusual attention because it paired a globally recognised celebrity, Tom DeLonge, with former senior figures from the US defence, intelligence and aerospace communities. That combination gave the organisation a level of public credibility rarely seen in modern UFO advocacy. Instead of asking audiences to trust anonymous insiders or speculative researchers, TTSA presented individuals whose careers had included work at the CIA, the Pentagon and Lockheed Martin's Skunk Works. For many journalists and members of the public, those professional backgrounds made the organisation appear unusually authoritative, even though former government service did not, by itself, verify TTSA's claims about unidentified aerial phenomena (UAP) or advanced technology. The distinction between personal expertise and evidential proof became one of the defining tensions in TTSA's public impact.<span class="citation-link-wrap">[Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 
 
@@ -347,7 +347,7 @@ Among its best-known figures were:
 * **Harold E. Puthoff**, a physicist with decades of work in government-funded research programmes, including classified contracts, although he was also known for controversial investigations into paranormal subjects.
 * **Luis Elizondo**, a former Department of Defense counter-intelligence official who stated that he had led the Advanced Aerospace Threat Identification Program (AATIP), making him the public face of claims that the US government had taken UAP seriously.
 * **Christopher Mellon**, former Deputy Assistant Secretary of Defense for Intelligence and a member of the Mellon family, who had extensive experience in defence oversight and congressional affairs.
-* **Steve Justice**, formerly Director of Advanced Systems at Lockheed Martin's Skunk Works, bringing recognised aerospace engineering credentials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+* **Steve Justice**, formerly Director of Advanced Systems at Lockheed Martin's Skunk Works, bringing recognised aerospace engineering credentials.<span class="citation-link-wrap">[Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 </div>
 
@@ -821,7 +821,7 @@ At the same time, TTSA exposed the limits of institutional authority. Former off
 1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 2.<a id="endnote-2"></a>
    Source: wired.com  

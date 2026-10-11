@@ -771,7 +771,7 @@ The case therefore illustrates a broader lesson about interpreting authentic UFO
 
 1.<a id="endnote-1"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-[aaro" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-[aaro</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-[aaro  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Aguadilla Resolution Report, March 2025, All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense · 2...</p></details>
    Published: March 2025  
 
@@ -796,7 +796,7 @@ The case therefore illustrates a broader lesson about interpreting authentic UFO
 5.<a id="endnote-5"></a>
    Source: aliencouncil.com  
    Title: Aguadilla, Puerto Rico — CBP thermal video, 25… · The Council  
-   Link:<a href="https://aliencouncil.com/cases/00067-aguadilla-cbp-2013/" target="_blank" rel="noopener noreferrer nofollow">https://aliencouncil.com/cases/00067-aguadilla-cbp-2013/</a>  
+   Link:https://aliencouncil.com/cases/00067-aguadilla-cbp-2013/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>July 17, 2026 — CASE #00067 · CASE OF RECORD AGUADILLA, PUERTO RICO — CBP THERMAL VIDEO, 25 APRIL 2013 Date observed 25 April 2013 Locati...</p></details>
    Published: July 17, 2026  
 
