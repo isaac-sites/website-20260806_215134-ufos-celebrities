@@ -1467,7 +1467,6 @@ Multiple witnesses make a UFO case more worthy of documentation and, in some cir
 
 100.<a id="endnote-100"></a>
    Source: nap.nationalacademies.org  
-   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 
 101.<a id="endnote-101"></a>
    Source: nap.nationalacademies.org  

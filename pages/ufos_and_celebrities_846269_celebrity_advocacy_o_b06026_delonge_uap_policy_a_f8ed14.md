@@ -841,7 +841,6 @@ For that reason, DeLonge's contribution is best understood as a mechanism of age
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 4.<a id="endnote-4"></a>
    Source: axios.com  

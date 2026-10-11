@@ -875,7 +875,6 @@ This combination shifted discussion of UAP away from exclusively fringe communit
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 4.<a id="endnote-4"></a>
    Source: decur.org  
