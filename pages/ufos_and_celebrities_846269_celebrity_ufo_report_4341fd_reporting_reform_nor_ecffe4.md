@@ -898,7 +898,6 @@ Official reviews consistently argue that the greatest obstacle has not been a sh
 
 17.<a id="endnote-17"></a>
    Source: alien-contact.me  
-   Link:https://alien-contact.me/resources  
 
 18.<a id="endnote-18"></a>
    Source: ufotransparency.com  

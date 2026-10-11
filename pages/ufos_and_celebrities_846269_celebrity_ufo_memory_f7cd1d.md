@@ -1375,7 +1375,6 @@ This approach preserves what is genuinely interesting about the testimony withou
 
 83.<a id="endnote-83"></a>
    Source: nap.nationalacademies.org  
-   Link:https://nap.nationalacademies.org/skim.php?act=nap&amp;chap=1-8&amp;record_id=18891  
 
 84.<a id="endnote-84"></a>
    Source: nationalacademies.org  

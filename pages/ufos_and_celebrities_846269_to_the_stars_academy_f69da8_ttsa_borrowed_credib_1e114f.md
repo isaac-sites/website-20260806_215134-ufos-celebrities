@@ -821,7 +821,6 @@ At the same time, TTSA exposed the limits of institutional authority. Former off
 1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 2.<a id="endnote-2"></a>
    Source: wired.com  

@@ -997,7 +997,6 @@ The most balanced reading is neither automatic belief nor reflexive mockery. Cel
 
 6.<a id="endnote-6"></a>
    Source: netflix.com  
-   Link:https://www.netflix.com/title/70049805  
 
 7.<a id="endnote-7"></a>
    Source: peacocktv.com  
@@ -1132,7 +1131,6 @@ The most balanced reading is neither automatic belief nor reflexive mockery. Cel
 
 35.<a id="endnote-35"></a>
    Source: nhinewsnetwork.com  
-   Link:https://nhinewsnetwork.com/biographies/dan-aykroyd/  
 
 36.<a id="endnote-36"></a>
    Source: decur.org  
@@ -1181,7 +1179,6 @@ The most balanced reading is neither automatic belief nor reflexive mockery. Cel
 
 45.<a id="endnote-45"></a>
    Source: aol.com  
-   Link:https://www.aol.com/articles/demi-lovato-confirms-she-stoned-205138223.html  
 
 46.<a id="endnote-46"></a>
    Source: prnewswire.com  
