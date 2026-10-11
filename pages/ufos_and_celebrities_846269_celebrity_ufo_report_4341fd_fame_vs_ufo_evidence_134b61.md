@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ufos-and-celebrities/
 - /reporting-stigma/
 nav_short_title: Fame vs Evidence
-title: Does Celebrity Status Make a UFO Claim Stronger?
+title: "Does Celebrity Status Make a UFO Claim Stronger? (Can Celebrity Stories Make UFO Reporting Safer? | UFOs And Celebrities)"
 title_full: Does Celebrity Status Make a UFO Claim Stronger? | Reporting Stigma
 display_title_short: Fame vs Evidence
 display_title: Fame vs Evidence
